@@ -9,7 +9,7 @@ back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer
-footer_content: "Copyright &copy; 2022 Lena Gieseke"
+footer_content: "Copyright &copy; 2023 Lena Gieseke"
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter

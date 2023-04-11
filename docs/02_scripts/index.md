@@ -1,30 +1,29 @@
 ---
 layout: default
-title: Slides
-nav_order: 3
+title: Scripts
+nav_order: 2
 has_children: false
 ---
 
 # Procedural Generation and Simulation
-
+  
 Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \  
 Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
+  
+## Scripts
 
-
-## Slides
-
-* [Lecture 01](pgs_ss23_01_slides.html)
-
+* [Chapter 01 - Introduction](pgs_ss23_01_intro_script.md)
 
 
 <!-- 
 
-* [Lecture 02](pgs_ss23_02_slides.html)
-* [Lecture 03](pgs_ss23_03_slides.html)
-* [Lecture 04](pgs_ss23_04_slides.html)
-* [Lecture 05](pgs_ss23_05_slides.html)
-* [Lecture 06](pgs_ss23_06_slides.html)
-* [Lecture 07](pgs_ss23_07_slides.html)
-* [Lecture 08](pgs_ss23_08_slides.html) 
-* 
-* -->
+* [Chapter 02 - Houdini](pgs_ss23_02_houdini_script.md)
+* [Chapter 03 - Beauty in Maths](pgs_ss23_03_mathsbeauty_script.html)
+* [Chapter 04 - Function Design](pgs_ss23_04_functions_script.md)
+* [Chapter 05 - Tilings & The Universe](pgs_ss23_05_tilings_script.md)
+* [Chapter 06 - Noise](pgs_ss23_06_noise_script.md)
+* [Chapter 07 - Dynamics](pgs_ss23_07_dynamics_script.md)
+* [Chapter 08 - Particles](pgs_ss23_08_particles_script.md)
+* [Chapter 09 - Fluids](../03_slides/pgs_ss23_08_slides.html) (slides only!) 
+
+-->
