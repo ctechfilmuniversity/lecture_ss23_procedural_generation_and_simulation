@@ -26,7 +26,13 @@ layout: false
 * Pattern
 
 --
+* Abstraction
+
+--
 * Procedural Generation
+
+--
+* Working Environment
 
 --
 * Course Setup
