@@ -13,6 +13,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 ## Scripts
 
 * [Chapter 01 - Introduction](pgs_ss23_01_intro_script.md)
+* [Chapter 02 - Unreal](pgs_ss23_02_unreal_script.md)
 
 
 <!-- 
