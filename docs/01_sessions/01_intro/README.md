@@ -101,7 +101,13 @@ This task is about installing and getting to know Unreal Engine. The goal of thi
   
 You have to submit at least one preview image of the scene that you worked on. This can be a really simple scene, e.g. just a couple elements. Even though the scene can be simple, also try to design the scene a bit in which ever visual direction you want.
   
-For archiving this goal, we recommend the tutorial [Your First Hour in Unreal Engine 5.0: Introduction](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5-0/E7L/your-first-hour-in-unreal-engine-5-0-introduction) (which also guides you through the installation steps). Ultimately, it is up to you how, e.g. with which tutorial, you want to get into Unreal. 
+
+  <!-- Note for next year: this is not the best starter tutorial -->
+
+For archiving this goal, you could, for example start with the official Unreal tutorial [Your First Hour in Unreal Engine 5.0: Introduction](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5-0/E7L/your-first-hour-in-unreal-engine-5-0-introduction) (which also guides you through the installation steps). Ultimately, it is up to you how, e.g. with which tutorial, you want to get into Unreal. 
+
+On a Side Note: The sample project that the tutorial is referring to, is now called [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit?sessionInvalidated=true).
+
 
 <!-- We started a collection of tutorials and resources for you in the script. -->
 
