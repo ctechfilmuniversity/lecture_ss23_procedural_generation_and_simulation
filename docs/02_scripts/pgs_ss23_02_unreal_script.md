@@ -61,7 +61,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 
 * Official Epic Games Tutorial - [Your First Hour in Unreal Engine 5.0: Introduction](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5-0/E7L/your-first-hour-in-unreal-engine-5-0-introduction)
-* Smart Poly - [Unreal Engine 5 Beginner Tutorial | Getting Started (2022)](https://www.youtube.com/watch?v=ptCN4cysDig)
+* Smart Poly - [Unreal Engine 5 Beginner Tutorial: Getting Started (2022)](https://www.youtube.com/watch?v=ptCN4cysDig)
     * This tutorial is a bit too simple at times for those who already have experience with 3D softwares but it provides a good overview of shortcuts and basic functionalities.
 * As a start, a good idea is also to browse through the [content examples](https://docs.unrealengine.com/5.1/en-US/content-examples-sample-project-for-unreal-engine/) provided by Unreal, which contain maps showcasing different concepts and functionalities.
 
