@@ -4,12 +4,12 @@
 
 ≈Are there any further topics in regard to procedural generation and simulation that would interest you?
 I really enjoyed the first class and reading the syllabus for the next lessons. I see nature as the ‘perfect’ and find inspiration in it.
-I hope to learn more about how to imitate a group of fish, learn about them as a group, and about the behavior of outsider individuals.
-<img src="img/fish.jpg" alt="school_of_fish" width=200>
+I hope to learn more about how to imitate a group of fish, learn about them as a group, and about the behavior of outsider individuals.</br>
+<img src="img/fish.jpg" alt="school_of_fish" width=200></br>
 Those are the topics I find the most interesting:
 - Pattern. When I first used the computer as a child and draw in Microsoft Paint, I enjoyed creating patterns (to use as a tile background for my blog, if you wonder why). I will be very excited to learn how to create interesting 3D patterns.
-- Tilings and Islamic patterns. When I lived in Jerusalem I was lucky to see beautiful mosques and learned in the past a bit about the theory behind Islamic design. The idea of decorating holy places with patterns made from geometric, organic shapes and typography, and not representing the god in human familiar shapes, but with perfect simple above human motifs. My knowledge of it ends here and I would love to learn more and experiment with the idea of math and design. Other than this, I also really love creating patterns and tilling.
-<img src="img/dome.jpg" alt="dome_of_rock_jeruslam" width=200>
+- Tilings and Islamic patterns. When I lived in Jerusalem I was lucky to see beautiful mosques and learned in the past a bit about the theory behind Islamic design. The idea of decorating holy places with patterns made from geometric, organic shapes and typography, and not representing the god in human familiar shapes, but with perfect simple above human motifs. My knowledge of it ends here and I would love to learn more and experiment with the idea of math and design. Other than this, I also really love creating patterns and tilling.</br>
+<img src="img/dome.jpg" alt="dome_of_rock_jeruslam" width=200></br>
 - Noise: I used to be interested in noise music, and I will love to learn about the thin line between noise as aesthetic and as a random mistake.
 
 * Which tool would you personally prefer to use for the practical tasks (e.g. Houdini, Unreal, Unity, Maya, Blender, JavaScript, p5, GLSL, ...)?
@@ -38,24 +38,24 @@ A procedural generation means creating a large group of visuals or a background 
 
 Take at least three pictures of natural patterns and at least three pictures of man-made ones (patterns can be two or three-dimensional). Try to include at least one pattern with self-similarity. Taking pictures with your smartphone is just fine. Link all images in this markdown file.
 Patterns in nature:
-<img src="img/pattern1.jpeg" alt="pattern1" width=250>
-<img src="img/pattern2.jpeg" alt="pattern2" width=250>
-<img src="img/pattern3.jpeg" alt="pattern3" width=250>
-<img src="img/pattern4.jpeg" alt="pattern4" width=250>
-<img src="img/pattern5.jpeg" alt="pattern5" width=250>
-
+<img src="img/pattern1.jpeg" alt="pattern1" width=250> </br>
+<img src="img/pattern2.jpeg" alt="pattern2" width=250></br>
+<img src="img/pattern3.jpeg" alt="pattern3" width=250></br>
+<img src="img/pattern4.jpeg" alt="pattern4" width=250></br>
+<img src="img/pattern5.jpeg" alt="pattern5" width=250></br>
+</br></br>
 
 Men made patterns:
-<img src="img/men-pattern1.jpeg" alt="men_made_patterns" width=250>
-<img src="img/men-pattern2.jpeg" alt="men_made_patterns" width=250>
-<img src="img/men-pattern3.jpeg" alt="men_made_patterns" width=250>
-<img src="img/men-pattern4.jpeg" alt="men_made_patterns" width=250>
-
+<img src="img/men-pattern1.jpeg" alt="men_made_patterns" width=250></br>
+<img src="img/men-pattern2.jpeg" alt="men_made_patterns" width=250></br>
+<img src="img/men-pattern3.jpeg" alt="men_made_patterns" width=250></br>
+<img src="img/men-pattern4.jpeg" alt="men_made_patterns" width=250></br>
+</br></br>
 
 
 self-similarity examples:
-<img src="img/men-similarity1.jpeg" alt="self_similarity" width=250>
-<img src="img/men-similarity2.jpeg" alt="self_similarity" width=250>
+<img src="img/men-similarity1.jpeg" alt="self_similarity" width=300></br>
+<img src="img/men-similarity2.jpeg" alt="self_similarity" width=300></br>
 
 
 ### Task 01.04 - Understanding and Implementing Patterns
@@ -81,10 +81,10 @@ spider-plant / (
 
 As an exercise to see and understand the environment around you (and to have some fun 😊), try to find at least two faces. Link all images in this file.
 
-<img src="img/faces1.jpeg" alt="faces_around_us" width=250>
-<img src="img/faces2.jpeg" alt="faces_around_us" width=250>
+<img src="img/faces1.jpeg" alt="faces_around_us" width=300>
+<img src="img/faces2.jpeg" alt="faces_around_us" width=300>
 here I found a parrot:
-<img src="img/faces3.jpeg" alt="faces_around_us" width=250>
+<img src="img/faces3.jpeg" alt="faces_around_us" width=300>
 
 
 ## Abstraction
@@ -110,8 +110,8 @@ It is hard to belive the character is done in CGI and only based partially on a 
 Jibaro:
 https://www.youtube.com/watch?v=JeUuk-g_Qws
 
-<img src="img/jibaro1.jpg" alt="jibaro" width=250>
-<img src="img/jibaro2.jpg" alt="jibaro" width=250>
+<img src="img/jibaro1.jpg" alt="jibaro" width=350>
+<img src="img/jibaro2.jpg" alt="jibaro" width=350>
 
 The second example of a classic style translated to computer graphics in a style called digital grotesque. This image is an actual stage of a 3d printing of the style.
 The way the old style is translated to new technology and gives a heavenly atmosphere makes it art for me. Also here, I saw this stage design a few years ago and keep on returning to it as inspiration.
@@ -119,8 +119,8 @@ The way the old style is translated to new technology and gives a heavenly atmos
 The magic flute stage design:
  https://www.michael-hansmeyer.com/zauberfloete
  
-<img src="img/opera1.jpg" alt="opera" width=250>
-<img src="img/opera2.jpg" alt="opera" width=250>
+<img src="img/opera.jpg" alt="opera" width=350>
+<img src="img/opera2.jpg" alt="opera" width=350>
 
 
 ## Unreal Engine
