@@ -3,13 +3,13 @@
 * Which of the chapter topics given in the syllabus are of most interest to you? Why?
 
 ≈Are there any further topics in regard to procedural generation and simulation that would interest you?
-I really enjoyed the first class and reading the syllabus for the next lessons. I see nature as the ‘perfect’ and find inspiration in it.
-I hope to learn more about how to imitate a group of fish, learn about them as a group, and about the behavior of outsider individuals.</br>
-<img src="img/fish.jpg" alt="school_of_fish" width=200></br>
+- I really enjoyed the first class and reading the syllabus for the next lessons. I see nature as the ‘perfect’ and find inspiration in it.
+- I hope to learn more about how to imitate a group of fish, learn about them as a group, and about the behavior of outsider individuals.<br/>
+<img src="img/fish.jpg" alt="school_of_fish" width=200> <br/>
 Those are the topics I find the most interesting:
 - Pattern. When I first used the computer as a child and draw in Microsoft Paint, I enjoyed creating patterns (to use as a tile background for my blog, if you wonder why). I will be very excited to learn how to create interesting 3D patterns.
-- Tilings and Islamic patterns. When I lived in Jerusalem I was lucky to see beautiful mosques and learned in the past a bit about the theory behind Islamic design. The idea of decorating holy places with patterns made from geometric, organic shapes and typography, and not representing the god in human familiar shapes, but with perfect simple above human motifs. My knowledge of it ends here and I would love to learn more and experiment with the idea of math and design. Other than this, I also really love creating patterns and tilling.</br>
-<img src="img/dome.jpg" alt="dome_of_rock_jeruslam" width=200></br>
+- Tilings and Islamic patterns. When I lived in Jerusalem I was lucky to see beautiful mosques and learned in the past a bit about the theory behind Islamic design. The idea of decorating holy places with patterns made from geometric, organic shapes and typography, and not representing the god in human familiar shapes, but with perfect simple above human motifs. My knowledge of it ends here and I would love to learn more and experiment with the idea of math and design. Other than this, I also really love creating patterns and tilling.<br/>
+<img src="img/dome.jpg" alt="dome_of_rock_jeruslam" width=200><br/>
 - Noise: I used to be interested in noise music, and I will love to learn about the thin line between noise as aesthetic and as a random mistake.
 
 * Which tool would you personally prefer to use for the practical tasks (e.g. Houdini, Unreal, Unity, Maya, Blender, JavaScript, p5, GLSL, ...)?
@@ -37,25 +37,24 @@ A procedural generation means creating a large group of visuals or a background 
 ### Task 01.03 - Seeing Patterns
 
 Take at least three pictures of natural patterns and at least three pictures of man-made ones (patterns can be two or three-dimensional). Try to include at least one pattern with self-similarity. Taking pictures with your smartphone is just fine. Link all images in this markdown file.
-Patterns in nature:
-<img src="img/pattern1.jpeg" alt="pattern1" width=250> </br>
-<img src="img/pattern2.jpeg" alt="pattern2" width=250></br>
-<img src="img/pattern3.jpeg" alt="pattern3" width=250></br>
-<img src="img/pattern4.jpeg" alt="pattern4" width=250></br>
-<img src="img/pattern5.jpeg" alt="pattern5" width=250></br>
+Patterns in nature: <br/><br/>
+<img src="img/pattern1.jpeg" alt="pattern1" width=300> <br/>
+<img src="img/pattern2.jpeg" alt="pattern2" width=300><br/>
+<img src="img/pattern3.jpeg" alt="pattern3" width=300><br/>
+<img src="img/pattern4.jpeg" alt="pattern4" width=300><br/>
+<img src="img/pattern5.jpeg" alt="pattern5" width=300><br/>
 </br></br>
 
-Men made patterns:
-<img src="img/men-pattern1.jpeg" alt="men_made_patterns" width=250></br>
-<img src="img/men-pattern2.jpeg" alt="men_made_patterns" width=250></br>
-<img src="img/men-pattern3.jpeg" alt="men_made_patterns" width=250></br>
-<img src="img/men-pattern4.jpeg" alt="men_made_patterns" width=250></br>
-</br></br>
+Men made patterns: <br/><br/>
+<img src="img/men-pattern1.jpeg" alt="men_made_patterns" width=300><br/>
+<img src="img/men-pattern2.jpeg" alt="men_made_patterns" width=300><br/>
+<img src="img/men-pattern3.jpeg" alt="men_made_patterns" width=300><br/>
+<img src="img/men-pattern4.jpeg" alt="men_made_patterns" width=300><br/>
+<br/><br/>
 
-
-self-similarity examples:
-<img src="img/men-similarity1.jpeg" alt="self_similarity" width=300></br>
-<img src="img/men-similarity2.jpeg" alt="self_similarity" width=300></br>
+self-similarity examples: <br/><br/>
+<img src="img/similarity1.jpeg" alt="self_similarity" width=300><br/>
+<img src="img/similarity2.jpeg" alt="self_similarity" width=300><br/>
 
 
 ### Task 01.04 - Understanding and Implementing Patterns
@@ -97,6 +96,7 @@ Explain briefly what you like about the painting and how it might inspire you fo
 
 I chose the "Madonna" by Edvard Munch.
 On one hand, the painter paints a beautiful classic figure which aligns with the art nouveau aesthetics of beauty and femme fatale. Still, then from the second hand, there are very modern graphic elements that could have been drawn today and resemble street art. This painting is unforgettable for me because of its timeless uniqueness, its particular style, and originality for the time.
+<br/><br/>
 <img src="img/Munch_Madonna.jpeg" alt="madonna" width=250>
 
 
