@@ -3,14 +3,15 @@
 * Which of the chapter topics given in the syllabus are of most interest to you? Why?
 
 ≈Are there any further topics in regard to procedural generation and simulation that would interest you?
-- I really enjoyed the first class and reading the syllabus for the next lessons. I see nature as the ‘perfect’ and find inspiration in it.
-- I hope to learn more about how to imitate a group of fish, learn about them as a group, and about the behavior of outsider individuals.<br/>
-<img src="img/fish.jpg" alt="school_of_fish" width=200> <br/>
+- I really enjoyed the first class and reading the syllabus for the next lessons.
 Those are the topics I find the most interesting:
 - Pattern. When I first used the computer as a child and draw in Microsoft Paint, I enjoyed creating patterns (to use as a tile background for my blog, if you wonder why). I will be very excited to learn how to create interesting 3D patterns.
 - Tilings and Islamic patterns. When I lived in Jerusalem I was lucky to see beautiful mosques and learned in the past a bit about the theory behind Islamic design. The idea of decorating holy places with patterns made from geometric, organic shapes and typography, and not representing the god in human familiar shapes, but with perfect simple above human motifs. My knowledge of it ends here and I would love to learn more and experiment with the idea of math and design. Other than this, I also really love creating patterns and tilling.<br/>
 <img src="img/dome.jpg" alt="dome_of_rock_jeruslam" width=200><br/>
 - Noise: I used to be interested in noise music, and I will love to learn about the thin line between noise as aesthetic and as a random mistake.
+- In general I hope to learn more about how to imitate a group of fish, learn about them as a group, and about the behavior of outsider individuals.<br/>
+<img src="img/fish.jpg" alt="school_of_fish" width=200> <br/>
+
 
 * Which tool would you personally prefer to use for the practical tasks (e.g. Houdini, Unreal, Unity, Maya, Blender, JavaScript, p5, GLSL, ...)?
 I would use Unreal with the rest of the class. I am both interested in Unity and Unreal, and learning how to create 3D graphics and spaces there (hopefully for creating a VR Installation)
@@ -150,16 +151,3 @@ Please summarize your personal learnings (text or bullet points - whatever you p
 I looked at example formulas and they seem very complex.
 - Installing Unreal and following the tutorial was pretty straightforward. I am familiar with the structure of it from other 3D programs I learned in the past.
 - I am looking forward to learning more about patterns and seeing more inspiration, and hoping I could build interesting visuals in unreal.
-
-
----
-  
-Answer all questions directly in a copy of this file and **also link and display all of your images in that file**. Submit your copy as `pgs_ss23_XX_lastname.md` in your assignments folder (replace the XX with the number of the session). 
-  
-For example: `assignments/gieseke/01/pgs_ss23_01_gieseke.md`
-
-
----
-
-**Happy Abstracing!**
-
