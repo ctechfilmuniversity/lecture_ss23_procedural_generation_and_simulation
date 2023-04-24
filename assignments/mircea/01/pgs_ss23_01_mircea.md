@@ -42,13 +42,13 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
 ### Task 01.01
 
 * Which of the chapter topics given in the syllabus are of most interest to you? Why?
-I'm excited about learning how to use "Noise" to make simulations look more natural and unpredictable. The concept generally fascinates me as it provides a way to add randomness and complexity to simulations, creating more organic and natural-looking results. Also the chapter "Dynamics" seems very interesting for me, as it can make objects move and behave in a more realistic way. 
+<br> I'm excited about learning how to use "Noise" to make simulations look more natural and unpredictable. The concept generally fascinates me as it provides a way to add randomness and complexity to simulations, creating more organic and natural-looking results. Also the chapter "Dynamics" seems very interesting for me, as it can make objects move and behave in a more realistic way. 
 
 * Are there any further topics in regard to procedural generation and simulation that would interest you?
-I think the class has got everything covered. 
+<br> I think the class has got everything covered. 
 
 * Which tool would you personally prefer to use for the practical tasks (e.g. Houdini, Unreal, Unity, Maya, Blender, JavaScript, p5, GLSL, ...)?
-I am very much looking forward to Unreal.
+<br> I am very much looking forward to Unreal.
 
 * How would you rate your level of experience with Unreal Engine?
     * [x] Novice
@@ -64,7 +64,7 @@ I am very much looking forward to Unreal.
 
 Briefly in your own words: how would you explain your nanny what *procedural generation* means? 
 
-Procedural generation refers to the process of automatically creating *something*, by following a set of pre-defined rules or instructions, allowing the creation of a large number of unique and diverse outputs without the need for manual creation. 
+<br> Procedural generation refers to the process of automatically creating *something*, by following a set of pre-defined rules or instructions, allowing the creation of a large number of unique and diverse outputs without the need for manual creation. 
 
 ## Patterns
 
