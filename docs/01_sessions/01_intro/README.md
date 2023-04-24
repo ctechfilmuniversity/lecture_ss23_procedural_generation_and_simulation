@@ -37,7 +37,7 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
 
 ## Syllabus
 
-* Read the [Syllabus](../../index.md). - [ x ] 
+* Read the [Syllabus](../../index.md). 
 
 ### Task 01.01
 
@@ -45,7 +45,7 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
 * Are there any further topics in regard to procedural generation and simulation that would interest you?
 * Which tool would you personally prefer to use for the practical tasks (e.g. Houdini, Unreal, Unity, Maya, Blender, JavaScript, p5, GLSL, ...)?
 * How would you rate your level of experience with Unreal Engine?
-    * [x] Novice
+    * [ ] Novice
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
