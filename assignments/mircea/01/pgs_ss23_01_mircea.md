@@ -151,6 +151,16 @@ On a Side Note: The sample project that the tutorial is referring to, is now cal
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
 
+Coding - even if basic, for me:
+- Recreated a basic "stones-pattern" as a code after not using p5.js in a few months;
+- Challenged myself by using separate functions and arrays;
+
+Seeing patterns:
+- These tasks pushed me to see the world in new ways and also document it (I usually take pictures of these kind of stuff aleatory but now I am motivated to keep them more organised)
+- Installed Adobe Capture to explore these things further;
+
+
+
 
 
 ---
