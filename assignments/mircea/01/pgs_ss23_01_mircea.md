@@ -75,11 +75,11 @@ Briefly in your own words: how would you explain your nanny what *procedural gen
 Take at least three pictures of natural patterns and at least three pictures of man-made ones (patterns can be two or three dimensional). Try to include at least one pattern with self-similarity. Taking the pictures with your smart phone is just fine. Link all images in this markdown file.
 
 <br> Human Patterns
-(imgs/01.png)
+[](imgs/01.png)
 <br> Natural Patterns
-(imgs/02.png)
+[](imgs/02.png)
 <br> GOD-LEVEL Pattern
-(imgs/03.HEIC)
+[](imgs/03.HEIC)
 
 ### Task 01.04 - Understanding and Implementing Patterns
 
@@ -93,10 +93,10 @@ https://editor.p5js.org/andreeacrisnina/sketches/ThLu-r6zV
 As an exercise to see and understand the environment around you (and to have some fun 😊), try to find at least two faces. Link all images in this file.
 
 <br> My bathroom is alive
-(imgs/04.png)
+[](imgs/04.png)
 
 <br> Also, from last time I was in Sibiu, Romania... suspicious houses :)
-(imgs/05.png)
+[](imgs/05.png)
 
 ## Abstraction
 
@@ -109,7 +109,7 @@ Explain briefly what you like about the painting and how it might inspire you fo
 <br> Rothko's "Orange, Red, and Yellow" is a very nice example of abstract painting that shows us how simple colors can create deep reactions. With its big size, the artwork almost wraps you up in the warm shades of orange, red, and yellow, making you feel connected and a part of it. The meaning behind the painting is open to interpretation, which allows each person to have their unique experience. It could represent the different stages of a sunset, the togetherness, or the journey of personal growth OR can also be seen as an agitating piece of art that sparks a feeling of intensity, like a flame. The warm colors can represent fire, passion, and energy, and might make you feel restless or even anxious. It all depends on the viewer's interpretation and personal experience. This is one of the beauties of abstract art: it can evoke different emotions and thoughts in different people.
 It's a kind of work that inspires me to make bold color choices in my own artwork to express powerful emotions that go beyond words.
 
-(imgs/06.png)
+[](imgs/06.jpeg)
 
 
 ### Task 01.07 - Abstracted Artistic Expression in CGI
