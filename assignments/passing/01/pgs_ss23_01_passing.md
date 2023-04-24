@@ -167,7 +167,7 @@ Chose one "traditional" painting, which is inspirational to you. The image can c
 Explain briefly what you like about the painting and how it might inspire you for your own work.
 
 
-![The Great Wave off Kanagawa, by Hokusai](https://en.wikipedia.org/wiki/Thirty-six_Views_of_Mount_Fuji#/media/File:Great_Wave_off_Kanagawa2.jpg)
+![The Great Wave off Kanagawa, by Hokusai](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Great_Wave_off_Kanagawa2.jpg/2560px-Great_Wave_off_Kanagawa2.jpg)
 
 I picked *The Great Wave off Kanagawa by Hokusai*, a painting that is not of euro-western origin. In general I really like the Ukiyo-e style as it's just so different from what western artists painted (or rather printed!) in the 17th to 19th century.
 
