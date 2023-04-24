@@ -37,7 +37,7 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
 
 ## Syllabus
 
-* Read the [Syllabus](../../index.md). - [x] 
+* Read the [Syllabus](../../index.md). - [ x ] 
 
 ### Task 01.01
 
