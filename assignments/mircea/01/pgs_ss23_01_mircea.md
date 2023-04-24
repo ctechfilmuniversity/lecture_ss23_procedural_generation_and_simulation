@@ -118,6 +118,12 @@ Chose one CG image, which you like and of which you think that it has an artisti
 
 Explain briefly what you like about the image and why you consider it to be somewhat a pice of art. 
 
+<br> I came across the works of Holger Lippmann during the last session and a whilebrowsing through his other digital art pieces. I really like the details and somehow mesmerizing complexity of his work, which made me see again the immense potential of geometry to create art that challenges our perceptions of what is possible, that is both aesthetically beautiful, just like a beautiful sunset photograph and conceptually somehow engaging.
+
+I choose Holger Lippmann's "PerlinScape IV.2" because of the “weird” colours that are floating, almost photographic or painted, but at the same time clearly digital. It also seems to be generated through procedural algorithms. The smoothness of the shapes and textures in the artwork gives a sense of fluidity and life to the geometric forms, which brings a magical feeling. 
+
+![](imgs/07.jpg)
+
 
 ## Unreal Engine
 
