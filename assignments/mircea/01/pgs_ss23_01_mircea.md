@@ -106,6 +106,12 @@ Chose one "traditional" painting, which is inspirational to you. The image can c
 
 Explain briefly what you like about the painting and how it might inspire you for your own work.
 
+<br> Rothko's "Orange, Red, and Yellow" is a very nice example of abstract painting that shows us how simple colors can create deep reactions. With its big size, the artwork almost wraps you up in the warm shades of orange, red, and yellow, making you feel connected and a part of it. The meaning behind the painting is open to interpretation, which allows each person to have their unique experience. It could represent the different stages of a sunset, the togetherness, or the journey of personal growth OR can also be seen as an agitating piece of art that sparks a feeling of intensity, like a flame. The warm colors can represent fire, passion, and energy, and might make you feel restless or even anxious. It all depends on the viewer's interpretation and personal experience. This is one of the beauties of abstract art: it can evoke different emotions and thoughts in different people.
+It's a kind of work that inspires me to make bold color choices in my own artwork to express powerful emotions that go beyond words.
+
+(imgs/06.png)
+
+
 ### Task 01.07 - Abstracted Artistic Expression in CGI
 
 Chose one CG image, which you like and of which you think that it has an artistic quality to it. The image doesn't need to be from the script, again you can chose any CGI image you like (it should use 3D graphics). You can find more examples in the [Summary of Artists](../../02_scripts/pgs_ss23_01_intro_script.md#summary-of-artists) section.  
