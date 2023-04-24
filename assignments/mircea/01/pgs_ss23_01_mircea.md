@@ -79,7 +79,7 @@ Take at least three pictures of natural patterns and at least three pictures of 
 <br> Natural Patterns
 ![](imgs/02.png)
 <br> GOD-LEVEL Pattern
-![](imgs/03.HEIC)
+![](imgs/03.png)
 
 ### Task 01.04 - Understanding and Implementing Patterns
 
