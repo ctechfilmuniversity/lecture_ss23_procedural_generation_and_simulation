@@ -42,9 +42,11 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
 ### Task 01.01
 
 * Which of the chapter topics given in the syllabus are of most interest to you? Why?
+
 <br> I'm excited about learning how to use "Noise" to make simulations look more natural and unpredictable. The concept generally fascinates me as it provides a way to add randomness and complexity to simulations, creating more organic and natural-looking results. Also the chapter "Dynamics" seems very interesting for me, as it can make objects move and behave in a more realistic way. 
 
 * Are there any further topics in regard to procedural generation and simulation that would interest you?
+
 <br> I think the class has got everything covered. 
 
 * Which tool would you personally prefer to use for the practical tasks (e.g. Houdini, Unreal, Unity, Maya, Blender, JavaScript, p5, GLSL, ...)?
@@ -72,9 +74,17 @@ Briefly in your own words: how would you explain your nanny what *procedural gen
 
 Take at least three pictures of natural patterns and at least three pictures of man-made ones (patterns can be two or three dimensional). Try to include at least one pattern with self-similarity. Taking the pictures with your smart phone is just fine. Link all images in this markdown file.
 
+<br> Human Patterns
+(/imgs/01.PNG)
+<br> Natural Patterns
+(/imgs/02.PNG)
+
 ### Task 01.04 - Understanding and Implementing Patterns
 
 Write for one of your pattern images a generating algorithm in pseudo-code or code. Submit the code below.
+
+<br> Basic remake of the stone-pattern:
+<iframe src="https://editor.p5js.org/andreeacrisnina/full/ThLu-r6zV" width="800" height="800" frameborder="0" allowfullscreen></iframe>
 
 ### Task 01.05 - Seeing Faces
 
