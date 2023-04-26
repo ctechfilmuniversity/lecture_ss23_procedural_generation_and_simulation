@@ -74,6 +74,33 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 [Post-Processing](https://dev.epicgames.com/community/learning/courses/pE2/unreal-engine-introducing-post-processing/mZ11/unreal-engine-introducing-post-processing-overview) ca. 1h
 
 [The New Procedural Generation Plugin](https://dev.epicgames.com/community/learning/tutorials/j4xJ/unreal-engine-introduction-to-procedural-generation-plugin-in-ue5-2) ca. 1h
+
+
+
+
+The Content Browser is the primary area of the Unreal Editor for creating, importing, organizing, viewing, and managing content Assets within your Unreal project. You can also use it to manage content folders and perform specific Asset operations, such as: 
+    Browse to and interact with all of the Assets in your project.
+
+    Find Assets using a text filter, which you can optionally combine with more advanced filtering.
+
+    Organize Assets into private, local, or shared collections.
+
+    Identify Assets that might contain problems.
+
+    Migrate Assets between content folders or to a different project. 
+
+https://www.youtube.com/watch?v=o7JVENd7Jq0
+
+Level and maps are the same
+
+
+The Blueprint Visual Scripting system in Unreal Engine is a complete gameplay scripting system based on the concept of using a node-based interface to create gameplay elements from within Unreal Editor. As with many common scripting languages, it is used to define object-oriented (OO) classes or objects in the engine.
+
+This system is extremely flexible and powerful as it provides the ability for designers to use virtually the full range of concepts and tools generally only available to programmers. In addition, Blueprint-specific markup available in Unreal Engine's C++ implementation enables programmers to create baseline systems that can be extended by designers. 
+
+
+https://gamedevacademy.org/unreal-blueprints-tutorial/
+
  -->
 
 

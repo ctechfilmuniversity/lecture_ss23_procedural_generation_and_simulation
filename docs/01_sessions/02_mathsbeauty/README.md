@@ -75,13 +75,16 @@ Hints
 * You can use any assets you want and the result does not need to look like a forest at all. You can also distribute other objects in a forest-like manner.
 
 
-*Check back an Friday, I might add some more hints.*
+*Check back on Friday, I might add some more hints.*
 
 
 <!-- * Click "Add To Project"
 * Check "Show all Projects"
 
-![](img/pcg_01.png) -->
+![](img/pcg_01.png) 
+
+[Procedural Content Generation in UE5 | GDC 2023](https://www.youtube.com/watch?v=aoCGLW53fZg&t=324s) - from April 2023
+-->
 
 
 *Submission*: At least one preview image (linked here).
