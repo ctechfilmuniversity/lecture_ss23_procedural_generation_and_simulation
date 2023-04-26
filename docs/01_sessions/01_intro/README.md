@@ -37,7 +37,7 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
 
 ## Syllabus
 
-* Read the [Syllabus](../../index.md).
+* Read the [Syllabus](../../index.md). 
 
 ### Task 01.01
 
@@ -49,7 +49,6 @@ This assignment should take < 6h (probably much less). If you need longer, pleas
     * [ ] Intermediate
     * [ ] Advanced
     * [ ] God-like
-
 
 ## Introduction
 
