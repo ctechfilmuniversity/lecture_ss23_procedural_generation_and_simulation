@@ -7,14 +7,14 @@ has_children: false
 
 # Procedural Generation and Simulation
 
-Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \  
+Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de   
 Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 
 ## Sessions
 
 * [Session 01 - Introduction](01_intro/README.md)
-* [Session 02](02_mathsbeauty/README.md)
+* [Session 02 - Beauty in Maths](02_mathsbeauty/README.md)
 
 <!-- 
 

@@ -25,7 +25,7 @@ This assignment should take <= 4h. If you need longer, please comment on that in
 
 *On a side note:* This script includes formulas and GitHub's markdown preview will not display them. To read the script with properly set formulas, you have the following options:
 
-* Read the script [online](https://ctechfilmuniversity.github.io/lecture_procedural_generation_and_simulation/02_scripts/pgs_ss23_03_mathsbeauty_script.html) (this links to an online `.html` version of the script)
+* Read the script [online](https://ctechfilmuniversity.github.io/lecture_ss23_procedural_generation_and_simulation/02_scripts/pgs_ss23_03_mathsbeauty_script.html) (this links to an online `.html` version of the script)
 * Download the script folder and open [pgs_ss23_03_mathsbeauty_script.html](../../02_scripts/pgs_ss23_03_mathsbeauty_script.html) locally in your browser.
 * Download the script folder and open [pgs_ss23_03_mathsbeauty_script.md](../../02_scripts/pgs_ss23_03_mathsbeauty_script.md) in Visual Studio Code with the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin installed. Then the preview of the `.md` within VSCode will render the formulas nicely.
 
@@ -85,6 +85,8 @@ Hints
 
 
 *Submission*: At least one preview image (linked here).
+
+*Check back an Friday, I might add some more submission requirements.*
 
 ## Learnings
 
