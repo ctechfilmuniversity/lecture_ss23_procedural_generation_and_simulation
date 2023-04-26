@@ -1028,9 +1028,12 @@ The top row shows real world surface materials, the bottom row their matching sy
 ## Function-based
 
 Function-based models extend the class of stochastic models by layering and compositing a variety of functions to form a visually complex pattern. 
+  
+--
+  
+Typical building blocks are periodic, spline, step, clamp and conditional functions for example.
 
 --
-Typical building blocks are periodic, spline, step, clamp and conditional functions for example.
 
 .center[<img src="../02_scripts/img/01/functionbased.png" alt="functionbased" style="width:100%;">]
 

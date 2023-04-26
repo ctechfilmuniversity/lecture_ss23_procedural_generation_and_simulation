@@ -108,8 +108,7 @@ For archiving this goal, you could for example start with the official Unreal tu
 
 On a Side Note: The sample project that the tutorial is referring to, is now called [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit?sessionInvalidated=true).
 
-
-<!-- We started a collection of tutorials and resources for you in the script. -->
+We started a collection of tutorials and resources for you in the [Unreal script](../../02_scripts/pgs_ss23_02_unreal_script.md).
 
 *Hint:* Make sure to plan in a bit of time for the installation of Unreal as it takes a while.
 
