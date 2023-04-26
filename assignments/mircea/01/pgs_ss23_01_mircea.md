@@ -140,7 +140,8 @@ For archiving this goal, you could for example start with the official Unreal tu
 
 On a Side Note: The sample project that the tutorial is referring to, is now called [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit?sessionInvalidated=true).
 
-![](imgs/08.jpg)
+*a Bergmannesque scenary waiting for a transcendental encounter*
+![](imgs/08.png)
 
 I never used Unreal before (or installed it). I think the Unity experience I have from the first term project makes it less scary and I also feel (at least at this very basic level) it looks a bit like a Unity on steroids, what can be achieved with very little adjustments. I am looking forward to explore it more. 
 _It's a bit scary that I feel it's less documented maybe, I spent 2h trying to figure out how to put back the "inspector" view after it dissapeared :)_
