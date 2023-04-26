@@ -166,7 +166,7 @@ Seeing patterns:
 Unreal:
 - Unity on steroids - trying to connect dots from the other 3D programs I explored lately and make sense of it
 - It's lagging a lot, unfortunately, so I'll have to fix that 
-- 
+
 
 _On a personal note: It's a very nice feeling to see that every little learning ads up and I get a basic grip on different softwares easier and easier and less scared about it_
 
