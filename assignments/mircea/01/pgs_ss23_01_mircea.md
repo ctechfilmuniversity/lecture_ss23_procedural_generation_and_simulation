@@ -140,6 +140,10 @@ For archiving this goal, you could for example start with the official Unreal tu
 
 On a Side Note: The sample project that the tutorial is referring to, is now called [Unreal Learning Kit](https://www.unrealengine.com/marketplace/en-US/product/unreal-learning-kit?sessionInvalidated=true).
 
+![](imgs/08.jpg)
+
+I never used Unreal before (or installed it). I think the Unity experience I have from the first term project makes it less scary and I also feel (at least at this very basic level) it looks a bit like a Unity on steroids, what can be achieved with very little adjustments. I am looking forward to explore it more. 
+_It's a bit scary that I feel it's less documented maybe, I spent 2h trying to figure out how to put back the "inspector" view after it dissapeared :)_
 
 <!-- We started a collection of tutorials and resources for you in the script. -->
 
@@ -159,9 +163,12 @@ Seeing patterns:
 - These tasks pushed me to see the world in new ways and also document it (I usually take pictures of these kind of stuff aleatory but now I am motivated to keep them more organised)
 - Installed Adobe Capture to explore these things further;
 
+Unreal:
+- Unity on steroids - trying to connect dots from the other 3D programs I explored lately and make sense of it
+- It's lagging a lot, unfortunately, so I'll have to fix that 
+- 
 
-
-
+_On a personal note: It's a very nice feeling to see that every little learning ads up and I get a basic grip on different softwares easier and easier and less scared about it_
 
 ---
   
