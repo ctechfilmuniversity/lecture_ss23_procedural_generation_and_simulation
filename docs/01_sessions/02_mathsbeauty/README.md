@@ -55,7 +55,7 @@ The bad news are that we must have Unreal version 5.2 for using the plugin. So g
 
 The goal of this task is to build a forest-like environment through which a player can run, with a procedural approach with a PCGVolume.
 
-To get there, you recommend to follow these tutorials:
+To get there, I recommend to follow these tutorials:
 * [Adrien Logut: UE5.2 Procedural Generation Plugin - Ep1 - Introduction](https://www.youtube.com/watch?v=hjk9308SCeE&t=61s)
 * [Adrien Logut: UE5.2 Procedural Generation Plugin - Ep 2 - Bounds and exclusions](https://www.youtube.com/watch?v=LyPK7MZT1pM&t=0s)
 * [Adrien Logut: UE5.2 Procedural Generation Plugin - Ep 3 - Mesh sampler, Density filtering and Subgraphs](https://www.youtube.com/watch?v=ZXh6oesGTGg)
