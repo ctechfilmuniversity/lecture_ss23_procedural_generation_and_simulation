@@ -67,8 +67,8 @@ Try to design the scene a bit in which ever visual direction you want. Your fina
 Hints
 * You do not need to build Unreal, as said in the video. Unreal 5.2 is now available in the Library.
     * Test early if 5.2 and the PCG plugin is running on your computer. If not get in touch with me asap!
-* The is an [un-official text-based summary of episode 1](https://www.quodsoler.com/blog/intro-to-unreal-procedural-content-generation-framework) of the video tutorials.
-* I recommend to start with a "Third Person" template.
+* There is an [un-official text-based summary of episode 1](https://www.quodsoler.com/blog/intro-to-unreal-procedural-content-generation-framework) of the video tutorials.
+* I recommend to start with a "Third Person" template for your scene.
 * If you get an  “Lighting Needs to be Rebuilt” error, go to the menu "Build" in the menu bar and select "Rebuild lighting".
 * Make the PCG Volume small and set the "Points Per Square Meter" (in the Surface Sampler node in the PCG graph) to a low number in case your computer slows down. You final scene does not to have a high density of meshes.
 * You can use any assets you want and the result does not need to look like a forest at all. Just distribute other objects in a forest-like manner.
