@@ -14,7 +14,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 * [Chapter 01 - Introduction](pgs_ss23_01_intro_script.md)
 * [Chapter 02 - Unreal](pgs_ss23_02_unreal_script.md)
-* [Chapter 03 - Beauty in Maths](pgs_ss23_03_mathsbeauty_script.html)
+* [Chapter 03 - Beauty in Maths](pgs_ss23_03_mathsbeauty_script.md)
 
 <!-- 
 

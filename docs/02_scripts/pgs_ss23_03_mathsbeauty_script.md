@@ -104,7 +104,7 @@ A ratio describes one quantity in relationship to another one, e.g. how long the
 
 We have a *golden* ratio if the ratio of two quantities is the same as the ratio of their sum to the larger of the two quantities.
 
-$\frac{a+b}{a} = \frac{a}{b}$
+$$\frac{a+b}{a} = \frac{a}{b}$$
 
 Line segments in the golden ratio:
 
@@ -118,15 +118,15 @@ A golden rectangle:
 
 This ratio is defined as $\varphi$:
 
-(1) $\frac{a+b}{a} = \frac{a}{b} \stackrel{\mathrm{def}}{=} \varphi$
+(1) $$\frac{a+b}{a} = \frac{a}{b} \stackrel{\mathrm{def}}{=} \varphi$$
 
 One method for finding the value of $\varphi$ is to start with the left fraction. 
 
-(2) $\frac{a+b}{a}=\frac{a}{a}+\frac{b}{a} = 1+\frac{b}{a}$
+(2) $$\frac{a+b}{a}=\frac{a}{a}+\frac{b}{a} = 1+\frac{b}{a}$$
 
 We can derive from (1) $\frac{a}{b} = \varphi$ that $\frac{b}{a} = \frac{1}{\varphi}$ and put that into (2)
 
-(3) $1+\frac{b}{a}=1+\frac{1}{\varphi}$
+(3) $$1+\frac{b}{a}=1+\frac{1}{\varphi}$$
 
 Setting that equal to the right side of (1), we get
 
@@ -240,7 +240,7 @@ Such an arrangement of leaves, which applies the golden angle, is also called *p
 
 Vogel, H (1979). **A better way to construct the sunflower head**. Mathematical Biosciences 44 (44): 179–189.
 
-Again in polar coordinates, it comes down to 
+Again in [polar coordinates](#polar-coordinates), it comes down to 
 
 $r = c\sqrt{n}$
 
