@@ -19,6 +19,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
         * [Text Based](#text-based)
         * [Video Tutorials](#video-tutorials)
         * [First Steps Tutorials](#first-steps-tutorials)
+        * [Procedural Content Generation Plugin](#procedural-content-generation-plugin)
 
 *We will work on this script through out the course.*
 
@@ -65,7 +66,12 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
     * This tutorial is a bit too simple at times for those who already have experience with 3D softwares but it provides a good overview of shortcuts and basic functionalities.
 * As a start, a good idea is also to browse through the [content examples](https://docs.unrealengine.com/5.1/en-US/content-examples-sample-project-for-unreal-engine/) provided by Unreal, which contain maps showcasing different concepts and functionalities.
 
+### Procedural Content Generation Plugin
 
+* Unreal Engine - [Procedural Content Generation in UE5 | GDC 2023](https://www.youtube.com/watch?v=aoCGLW53fZg&t=324s) (from April 2023; we are pretty up-to-date 😁)
+* Gorka Games - [NEW Unreal Engine 5.2 Procedural Plugin Tutorial - How to Use It Very Easy!](https://www.youtube.com/watch?v=0YiDT08W_q8)
+* UnrealityBites - [UE5.2: Procedural Content Generation (inc. how to exclude zones)](https://www.youtube.com/watch?v=RBFvkfZxJJk), [UE5.2: Dramatically Improve Moving Foliage Performance using this PCG parameter](https://www.youtube.com/watch?v=9DY9Xe1KRW8)
+* UNF Games - [Procedural Content Generation Tutorial Unreal Engine 5 - Create a Forest](https://www.youtube.com/watch?v=8c1t4Pok_E8)
 
 <!-- [Lumen](https://dev.epicgames.com/community/learning/courses/2Wo/lumen-essentials/dL16/introduction-to-lumen-essentials) ca. 20 mins
 

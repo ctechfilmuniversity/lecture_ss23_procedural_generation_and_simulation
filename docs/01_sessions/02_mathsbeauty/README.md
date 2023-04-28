@@ -71,33 +71,24 @@ Hints
 * I recommend to start with a "Third Person" template.
 * If you get an  “Lighting Needs to be Rebuilt” error, go to the menu "Build" in the menu bar and select "Rebuild lighting".
 * Make the PCG Volume small and set the "Points Per Square Meter" (in the Surface Sampler node in the PCG graph) to a low number in case your computer slows down. You final scene does not to have a high density of meshes.
-* For adding assets (in the tutorial the "temperate Vegetation: Spruce Forest" is used and works well in 5.2) from to market place that are officially not compatible with 5.2 you can use [the following approach](https://dev.epicgames.com/community/learning/tutorials/6G1D/unreal-engine-5-how-to-use-assets-that-are-not-compatible-with-ue5-in-ue5).
-* You can use any assets you want and the result does not need to look like a forest at all. You can also distribute other objects in a forest-like manner.
+* You can use any assets you want and the result does not need to look like a forest at all. Just distribute other objects in a forest-like manner.
+* For adding assets (in the tutorial the "temperate Vegetation: Spruce Forest" is used and works well in 5.2) from to market place that are officially not compatible with 5.2 you can use [the following approach](https://dev.epicgames.com/community/learning/tutorials/6G1D/unreal-engine-5-how-to-use-assets-that-are-not-compatible-with-ue5-in-ue5):
+
+![pcg_01](img/pcg_01.png)  
+![pcg_02](img/pcg_02.png)  
 
 
-*Check back on Friday, I might add some more hints.*
+Check the [Unreal Script](../../02_scripts/pgs_ss23_02_unreal_script.md#procedural-content-generation-plugin) for more resources regarding the new Procedural Content Generation plugin.
 
 
-<!-- * Click "Add To Project"
-* Check "Show all Projects"
+*Submission*: At least one preview image (linked here). Eventually, we also want to render videos and if you are interested, have a look into the topic yourself. But for this submission a video is not a requirement.
 
-![](img/pcg_01.png) 
-
-[Procedural Content Generation in UE5 | GDC 2023](https://www.youtube.com/watch?v=aoCGLW53fZg&t=324s) - from April 2023
--->
-
-
-*Submission*: At least one preview image (linked here).
-
-*Check back an Friday, I might add some more submission requirements.*
 
 ## Learnings
 
 ### Task 02.03
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
-
-
 
 ---
   
