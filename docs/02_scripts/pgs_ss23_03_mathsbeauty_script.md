@@ -2,6 +2,7 @@
 layout: default
 title: Script
 nav_exclude: true
+use_math: true
 ---
 
 # Procedural Generation and Simulation
