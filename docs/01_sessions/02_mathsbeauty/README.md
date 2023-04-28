@@ -81,7 +81,9 @@ Hints
 Check the [Unreal Script](../../02_scripts/pgs_ss23_02_unreal_script.md#procedural-content-generation-plugin) for more resources regarding the new Procedural Content Generation plugin.
 
 
-*Submission*: At least one preview image (linked here). Eventually, we also want to render videos and if you are interested, have a look into the topic yourself. But for this submission a video is not a requirement.
+*Submission*: At least one preview image (linked here).  
+
+Eventually, we also want to render videos and if you are interested, have a look into the topic yourself. But for this submission a video is not a requirement.
 
 
 ## Learnings
