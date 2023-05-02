@@ -18,11 +18,23 @@ This session is due on **Monday, May 15th** and we will discuss the results on W
 
 This assignment should take <= 4h. If you need longer, please comment on that in your submission.
 
+* [Session 03 - Function Design (10 points)](#session-03---function-design-10-points)
+    * [A New Environment](#a-new-environment)
+        * [Task 03.01 - Setup Fragment Shader](#task-0301---setup-fragment-shader)
+    * [Function Design](#function-design)
+        * [Task 03.02 - Brick Pattern](#task-0302---brick-pattern)
+        * [Task 03.03 - Experiments](#task-0303---experiments)
+        * [Task 03.04 - Inspiration](#task-0304---inspiration)
+    * [Unreal](#unreal)
+    * [Learnings](#learnings)
+        * [Task 03.05](#task-0305)
+
+
 ---
 
 ## A New Environment
 
-## Task 03.01 - Setup Fragment Shader
+### Task 03.01 - Setup Fragment Shader
 
 For this chapter we will also have a quick look into just filling a 2D canvas. The easiest environment for this are fragment shaders. 
 
@@ -49,17 +61,17 @@ As of now, we only work with the fragment shader, no vertex shader, etc. needed!
 
 ## Function Design
 
-Read [Chapter 04 - Function Design](../../02_scripts/pgs_ss23_04_functions_script.md)
+Read [Chapter 04 - Function Design](../../02_scripts/pgs_ss23_03_functions_script.md)
 
 *Optional*: In case the chapter wasn't clear, you can also refer to the Book of Shader's chaper [Shaping functions](https://thebookofshaders.com/05/). My script is in parts based on that chapter.
 
-## Task 03.02 - Brick Pattern
+### Task 03.02 - Brick Pattern
 
 Understand the given brick pattern code in the [`brick.frag`](brick.frag) file and insert comments explaining for each code line of the brick pattern what it does and submit your copy as `brick_lastname.frag` in your assignments folder.
 
 *Submission:* Your `brick_lastname.frag` file.
 
-## Task 03.03 - Experiments
+### Task 03.03 - Experiments
 
 Come up with your own experimental pattern. You do not need to follow a design goal with this task and the result does not need to look good. The goal of this task is that you experiment with the different functions components. Submit your fragment shader as `experiments_lastname.frag`
 
@@ -70,11 +82,11 @@ You can also start with the given brick pattern and change that. For example:
 *Submission:* Your `experiments_lastname.frag` file.
 
 
-## Task 03.04 - Inspiration
+### Task 03.04 - Inspiration
 
-Go to the [shadertoy](https://www.shadertoy.com/) site and browse the examples a bit. Submit the link to one example you like (you don't have to understand the code). Add that link to a file `pgs_ss23_04_lastname.md` and submit it in your folder.
+Go to the [shadertoy](https://www.shadertoy.com/) site and browse the examples a bit. Submit the link to one example you like (you don't have to understand the code). Add that link to a file `pgs_ss23_03_lastname.md` and submit it in your folder.
 
-*Submission:* Links in your `pgs_ss23_04_lastname.md` file.
+*Submission:* Links in your `pgs_ss23_03_lastname.md` file.
 
 ## Unreal
 
@@ -82,11 +94,11 @@ Go to the [shadertoy](https://www.shadertoy.com/) site and browse the examples a
 
 ## Learnings
 
-### Task 02.03
+### Task 03.05
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
 
-*Submission:* Text in your `pgs_ss23_04_lastname.md` file.
+*Submission:* Text in your `pgs_ss23_03_lastname.md` file.
 
 ---
 
