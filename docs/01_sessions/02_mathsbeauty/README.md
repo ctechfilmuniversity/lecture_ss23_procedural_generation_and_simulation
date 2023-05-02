@@ -14,9 +14,18 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 # Session 02 - Beauty in Maths (10 points)
 
-This session is due on **Tuesday, May 8th** and we will discuss the results on Wednesday, May 10th.  
+This session is due on **Monday, May 8th** and we will discuss the results on Wednesday, May 10th.  
 
 This assignment should take <= 4h. If you need longer, please comment on that in your submission.
+
+* [Session 02 - Beauty in Maths (10 points)](#session-02---beauty-in-maths-10-points)
+    * [The Theory](#the-theory)
+    * [Task 02.01 - Creative Project Development Numbers and Curves](#task-0201---creative-project-development-numbers-and-curves)
+    * [Unreal](#unreal)
+        * [Task 02.02 - Procedural Generation Plugin](#task-0202---procedural-generation-plugin)
+    * [Learnings](#learnings)
+        * [Task 02.03](#task-0203)
+
 
 
 ## The Theory
