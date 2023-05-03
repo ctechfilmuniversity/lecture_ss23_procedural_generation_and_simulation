@@ -79,7 +79,7 @@ You can also start with the given brick pattern and change that. For example:
 
 ![brick_variation_02](img/brick_02.png)
 
-*Submission:* Your `experiments_lastname.frag` file.
+*Submission:* Your `experiments_lastname.frag` file and an image of your shader, linked in your `pgs_ss23_03_lastname.md` file.
 
 
 ### Task 03.04 - Inspiration
