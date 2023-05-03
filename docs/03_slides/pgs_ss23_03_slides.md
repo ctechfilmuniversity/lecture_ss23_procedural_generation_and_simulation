@@ -1582,9 +1582,9 @@ template:inverse
 ---
 .header[Next]
 
-## Noise Functions
+## Tilings
 
-Next we look into the deeper meanings of repetition:
+Next we are looking into the deeper meanings of repetition:
 
 .center[<img src="../02_scripts/img/04/tutorial_07_islamicpattern_01.png" alt="tutorial_07_islamicpattern_01" style="width:25%;"><img src="../02_scripts/img/04/tutorial_07_islamicpattern_02.png" alt="tutorial_07_islamicpattern_02" style="width:25%;"><img src="../02_scripts/img/04/tutorial_07_islamicpattern_03.png" alt="tutorial_07_islamicpattern_03" style="width:25%;"><img src="../02_scripts/img/04/tutorial_07_islamicpattern_05.png" alt="tutorial_07_islamicpattern_05" style="width:25%;">]
 

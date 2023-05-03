@@ -50,9 +50,10 @@ Prof. Dr. Lena Gieseke \| l.gieseke@filmuniversitaet.de \| Film University Babel
         * [One Cell](#one-cell)
         * [Repetitive Cells](#repetitive-cells)
     * [Next](#next)
+        * [Tilings](#tilings)
     * [References](#references)
 
-In the last chapter we were looking at existing numbers and curve equations. Even though that was a lot of fun and beautiful those equations are also somewhat limited in their possible usage and designs. Hence, in this chapter we are going to have a look into how to combine functions to come up with individual designs. 
+In the last chapter we were looking at existing numbers and curve equations. Even though that was a lot of fun and beautiful, those equations are also somewhat limited in their possible usage and designs. Hence, in this chapter we are going to have a look into how to combine functions to come up with individual designs. 
 
 For function designs the ultimate rock star / god / person of incredible awesomeness is [Inigo Quilez](http://www.iquilezles.org). His [articles page](http://www.iquilezles.org/www/index.htm) is a resource of unmeasurable value. If interested, check out his explanations on [Making a heart with mathematics](https://www.youtube.com/watch?v=aNR4n0i2ZlM) (which is a somewhat advanced example though).
 
@@ -251,7 +252,6 @@ More often we want a smoother transition, e.g.
 
 ![transition_04](img/04/transition_04.png)  
 
-<!-- TODO: Fix image to have t on horizontal line not diagonal -->
 
 This is called an *interpolation*.
 
@@ -274,12 +274,13 @@ void main()
     vec2 pt = gl_FragCoord.xy/u_resolution;
 
     // Our "pattern":
+    float verti = sin(8.0 * PI * pt.x);
     float hori = sin(8.0 * PI * pt.y);
 
-    // Interpolating between the pattern and 1.
-    // depending on the x coordinate, meaning
-    // with t = pt.x
-    vec3 color = vec3(pt.x * hori + (1.0 - pt.x));
+    vec3 color = vec3(pt.x * hori + ((1.0 - pt.x) * verti));
+
+    // https://registry.khronos.org/OpenGL-Refpages/gl4/html/mix.xhtml
+    // vec3 color = vec3(mix(hori, verti, pt.x));
 
     // Assign frag color with alpha
     gl_FragColor = vec4(color,1.0);
@@ -307,6 +308,39 @@ c = a * (1) - ty) + b * ty;
 ```
 
 Linear and bilinear interpolation is usually called `lerp()`, e.g. [`lerp` in p5](https://p5js.org/reference/#/p5.Vector/lerp) or [`lerp` in vex](http://www.sidefx.com/docs/houdini/vex/functions/lerp.html) or [`mix`](https://www.khronos.org/registry/OpenGL-Refpages/gl4/html/mix.xhtml) in glsl.
+
+```glsl
+#ifdef GL_ES
+precision mediump float;
+#endif
+#define PI 3.14159265359
+uniform vec2 u_resolution;
+
+void main()
+{
+    vec2 pt = gl_FragCoord.xy/u_resolution;
+
+
+    vec3 color1 = vec3(1., 0. , 0.);
+    vec3 color2 = vec3(0., 1. , 0.);
+    vec3 color3 = vec3(0., 0. , 1.);
+    vec3 color4 = vec3(1., 1. , 0.);
+
+    vec3 interpol1 = mix(color1, color2, pt.x);
+    vec3 interpol2 = mix(color3, color4, pt.x);
+    // vec3 color = interpol1;
+
+    vec3 interpol3 = mix(interpol1, interpol2, pt.y);
+    vec3 color = interpol3;
+
+    // Assign frag color with alpha
+    gl_FragColor = vec4(color,1.0);
+}
+```
+
+Code rendering:  
+![interpolation_09](img/04/interpolation_09.png)  
+
 
 ### Trilinear Interpolation
 
@@ -540,11 +574,15 @@ Wave functions have two common properties
 * frequency (“*how often*”), and
 * amplitude (“*how much*”).
 
+<!-- 
+
 used as
 
 ```glsl
 (t * frequency) % amplitude;
-```
+``` 
+
+-->
 
 ![wave_05](img/04/wave_05.png)
 
@@ -731,7 +769,7 @@ If you are interested in how Inigo build this scene, there is a 6 hours (!) reco
 
 ## Example
 
-In this example, I am walking you through the steps to re-create this subtle pattern. It is a fairly easy design but include several of the most common approaches when putting functions together.
+In this example, I am walking you through the steps to re-create this subtle pattern. It is a fairly easy design but includes several of the most common approaches when putting functions together.
 
 ![pattern_07](img/04/pattern_07.png)  
 
@@ -965,9 +1003,14 @@ I hope you didn't go blind by this example... sorry.
 
 ## Next
 
-Next we are going to add one more brush to our tool box: noise functions!
+### Tilings
 
-.center[<img src="img/04/noise_14.png" alt="noise_14" style="width:100%;">  [[thebookofshaders]](https://thebookofshaders.com/11/)]
+Next we look into the deeper meanings of repetition:
+
+![tutorial_07_islamicpattern_01](img/04/tutorial_07_islamicpattern_01.png)
+![tutorial_07_islamicpattern_02](img/04/tutorial_07_islamicpattern_02.png)
+![tutorial_07_islamicpattern_03](img/04/tutorial_07_islamicpattern_03.png)
+![tutorial_07_islamicpattern_05](img/04/tutorial_07_islamicpattern_05.png)
 
 
 ---
