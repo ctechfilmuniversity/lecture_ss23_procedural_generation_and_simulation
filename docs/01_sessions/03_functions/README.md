@@ -69,6 +69,10 @@ Read [Chapter 04 - Function Design](../../02_scripts/pgs_ss23_03_functions_scrip
 
 Understand the given brick pattern code in the [`brick.frag`](brick.frag) file and insert comments explaining for each code line of the brick pattern what it does and submit your copy as `brick_lastname.frag` in your assignments folder.
 
+One cell of the brick pattern is parameterized as follows:
+
+![tex_brick_params](img/tex_brick_params.png)
+
 *Submission:* Your `brick_lastname.frag` file.
 
 ### Task 03.03 - Experiments
