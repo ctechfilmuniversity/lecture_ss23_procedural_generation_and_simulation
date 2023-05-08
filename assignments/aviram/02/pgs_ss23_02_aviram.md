@@ -13,21 +13,21 @@ Submission: Your concept.
 ## Task 02.01 - Creative Project Development Numbers and Curves
 
 I've chose to create a audio visual project about the Lituus Curve. Mostly because it's so visually beautiful.  
-<img src="img/litus.png" alt="lituus" width=200> <br/>
+<img src="img/litus.png" alt="lituus" width=300> <br/>
 I'm creating an audio-visual project centered around the visually stunning Lituus Curve. The goal is to immerse the viewer in the "eye of the storm" of the curve, without directly showing it. Instead, we will use the mathematical equation of the spiral to inform our visuals.<br/>
 For the visual we will use a colorful projection in a dark large gallery room. By editing the transition of color based on the equation, we hope to get by it an interesting and dynamic transition effect.<br/>
 In terms of sound, we will draw inspiration from the Lituus horn and use an orchestra to create horn sounds. We will also incorporate the spiral concept from music theory to create an immersive experience. To achieve this, we will use a surround sound system to make the sound move around the viewer, creating the sensation of being in the center of the spiral.<br/>
-<img src="img/instrument.png" alt="lituus instrument" width=200> <br/>
-<img src="img/spiral.png" alt="lituus" width=200> <br/>
+<img src="img/instrument.png" alt="lituus instrument" width=300> <br/>
+<img src="img/spiral.png" alt="lituus" width=300> <br/>
 s this project is a research exploration of the visual and sound effects of the Lituus Curve's mathematical equation, it is difficult and not recommended to provide a sketch of the installation, 
 but to leave place to where the research will lead us.
 
 
 ## Task 02.02 - Procedural Generation Plugin
 
-<img src="img/unreal1.png" alt="unreal" width=200> <br/>
-<img src="img/unreal2.png" alt="unreal" width=200> <br/>
-<img src="img/unreal3.png" alt="unreal" width=200> <br/>
+<img src="img/unreal1.png" alt="unreal" width=600> <br/>
+<img src="img/unreal2.png" alt="unreal" width=600> <br/>
+<img src="img/unreal3.png" alt="unreal" width=600> <br/>
 
 # Learnings
 ## Task 02.03
