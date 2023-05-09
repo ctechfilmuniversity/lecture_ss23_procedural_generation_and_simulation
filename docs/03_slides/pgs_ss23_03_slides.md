@@ -40,9 +40,6 @@ layout: false
 
 .center[<img src="../02_scripts/img/04/pattern_08.png" alt="pattern_08" style="width:70%;">]
 
-
-
-
 ---
 template: inverse
 
