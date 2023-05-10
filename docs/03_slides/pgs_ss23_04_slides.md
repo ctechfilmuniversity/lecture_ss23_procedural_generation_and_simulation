@@ -91,12 +91,6 @@ As if we project the 3D plot onto a 2D plane.
 ## Function Design
 
 
-???
-.task[COMMENT:]  
-
-* What is an interpolation function?
-
---
 
 .center[<img src="../02_scripts/img/04/func_09.png" alt="func_09" style="width:90%;">]  
 
@@ -110,13 +104,15 @@ As if we project the 3D plot onto a 2D plane.
 
 ## Interpolation Functions
 
-.center[<img src="../02_scripts/img/04/interpolation_03.png" alt="interpolation_03" style="width:100%;">]  
-[[demofox]](https://blog.demofox.org/2015/08/15/resizing-images-with-bicubic-interpolation/)  
 
----
-.header[Transitions]
+???
+.task[COMMENT:]  
 
-## Interpolation Functions
+* What is an interpolation function?
+
+--
+
+
 
 .center[<img src="../02_scripts/img/04/interpolation_01.png" alt="interpolation_01" style="width:100%;">]  
 [[paulbourke]](http://paulbourke.net/miscellaneous/interpolation/)
@@ -170,6 +166,16 @@ Linear and bilinear interpolation is usually called `lerp()`, e.g. in [Unreal](h
 
 * https://www.youtube.com/@BenCloward/videos
 * Number 6
+
+---
+.header[Transitions]
+
+## Interpolation Functions
+
+.center[<img src="../02_scripts/img/04/interpolation_03.png" alt="interpolation_03" style="width:100%;">]  
+[[demofox]](https://blog.demofox.org/2015/08/15/resizing-images-with-bicubic-interpolation/)  
+
+
 
 ---
 .header[Transitions]
@@ -256,6 +262,23 @@ float d = distance(coord, vec2(0.5)); // 0..1
 d *= 8.0; // 0..8
 d -= floor(d); // 8x 0..1, 0..1, ...
 ```
+
+The same with modulo:
+
+```glsl
+// Ridges
+float d = distance(coord, vec2(0.5)); // 0..1
+
+d *= 8.0; // 0..8
+d = d % 1.0; // 8x 0..1, 0..1, ...
+```
+
+or GLSL < 3.0
+
+```
+d = mod(d, 1.0);
+```
+
 
 ---
 .header[Function Primitive Components]
@@ -423,8 +446,11 @@ So far, we have used simple grids to create repetitive patterns. However, grid w
 ???
 .task[COMMENT:]  
 
+* In previous years I have explained how to create a hex tiling in glsl.
+* Unreal would be the way to go: https://www.youtube.com/watch?v=hc6msdFcnA4
+
 * https://www.youtube.com/watch?v=VmrIDyYiJBA
-* https://www.youtube.com/watch?v=hc6msdFcnA4
+
 
 
 
@@ -501,12 +527,9 @@ he primary advantage of a hex map over a traditional square grid map is that the
 
 ## Hexagonal Grids in Nature?
 
-.center[<img src="../02_scripts/img/05/hexgrid_08.jpg" alt="hexgrid_08" style="width:60%;"> [[documentarytube]](https://www.documentarytube.com/articles/the-hexagon-nature-s-most-powerful-creation/)]  
-
-
 --
 
-> Why do honeybees love hexagons? Cause hexagons are the bestagons!
+.center[<img src="../02_scripts/img/05/hexgrid_08.jpg" alt="hexgrid_08" style="width:60%;"> [[documentarytube]](https://www.documentarytube.com/articles/the-hexagon-nature-s-most-powerful-creation/)]  
 
 ???
 .task[COMMENT:]  
@@ -514,6 +537,9 @@ he primary advantage of a hex map over a traditional square grid map is that the
 * Least amount of vax and most amount of storage space
 * https://www.youtube.com/watch?v=QEzlsjAqADA
 * [March is hexagonal awareness month](https://hexnet.org/content/hexagonal-awareness-month-2012)
+
+--
+> Why do honeybees love hexagons? Cause hexagons are the bestagons!
 
 ---
 .header[Tilings]
@@ -535,6 +561,7 @@ he primary advantage of a hex map over a traditional square grid map is that the
 
 ![tilings_15](../02_scripts/img/05/tilings_15.png) [[pi.math.cornell]](http://pi.math.cornell.edu/~mec/2008-2009/KathrynLindsey/PROJECT/Page2.htm)
 
+--
 
 vs.
 
@@ -686,17 +713,14 @@ A wallpaper group (or plane symmetry group) is in a mathematical classification 
 * http://xahlee.info/Wallpaper_dir/c5_17WallpaperGroups.html
 * https://math.hws.edu/eck/js/symmetry/wallpaper.html
 * https://tessellations.ca/
+* KaleidoPaint iPad app
+* https://apps.apple.com/us/app/kaleidopaint/id518275953
+
+
 
 --
 
 <iframe width="791" height="445" src="https://www.youtube.com/embed/m8aUEqLqy_g" title="Creating tessellations - a quickie Louis Cube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-
-???
-.task[COMMENT:]  
-
-* KaleidoPaint iPad app
-* https://apps.apple.com/us/app/kaleidopaint/id518275953
 
 
 
@@ -793,6 +817,11 @@ Any tiling by these tiles can only exhibit a hierarchy of squares: each orange s
 
 ![tilings_25](../02_scripts/img/05/tilings_25.png)  
 [[wiki]](https://en.wikipedia.org/wiki/Aperiodic_tiling#/media/File:Robinson_tiling.jpg)
+
+---
+.header[Tilings]
+
+## Final Thoughts
 
 ---
 .header[Tilings]
@@ -1229,6 +1258,8 @@ template:inverse
 .header[Sacred Geometry]
 
 ## The Pentagram of Venus
+
+--
 
 A slightly simplified visualization of the path that Venus as observed from Earth:
 
