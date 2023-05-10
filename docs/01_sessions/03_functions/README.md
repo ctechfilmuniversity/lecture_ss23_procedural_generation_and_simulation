@@ -83,6 +83,8 @@ You can also start with the given brick pattern and change that. For example:
 
 ![brick_variation_02](img/brick_02.png)
 
+Alternatively, you can combine this task with experimenting with nodes in the Material Editor in Unreal and / or using the Custom node (see [Session 04](../04_tilings/README.md#unreal)). Also, you do not have to start with the brick pattern, if you don't want to - as long as you work with different function components.
+
 *Submission:* Your `experiments_lastname.frag` file and an image of your shader, linked in your `pgs_ss23_03_lastname.md` file.
 
 
@@ -94,7 +96,7 @@ Go to the [shadertoy](https://www.shadertoy.com/) site and browse the examples a
 
 ## Unreal
 
-*I will add this task soon (by the latest next week).*
+See [Session 04](../04_tilings/README.md#unreal)
 
 ## Learnings
 
