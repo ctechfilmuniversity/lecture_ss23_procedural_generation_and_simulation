@@ -1,13 +1,11 @@
 ## Task 04.01 - Materials in Unreal
 
-<img src="img/1.png"
+<img src="img/4.png"
      style="float: left; margin-right: 10px; height: 400;" />
-<img src="img/2.png"
-     style="float: left; margin-right: 10px; height: 400;" />
-
 <img src="img/3.png"
      style="float: left; margin-right: 10px; height: 400;" />
-<img src="img/4.png"
+
+<img src="img/2.png"
      style="float: left; margin-right: 10px; height: 400;" />
 
 ## Learning
