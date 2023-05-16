@@ -17,11 +17,11 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 * [Chapter 03 - Beauty in Maths](pgs_ss23_03_mathsbeauty_script.html)
 * [Chapter 04 - Function Design](pgs_ss23_04_functions_script.md)
 * [Chapter 05 - Tilings and The Universe](pgs_ss23_05_tilings_script.md)
+* [Chapter 06 - Noise](pgs_ss23_06_noise_script.md)
+  
 
 <!-- 
 
-
-* [Chapter 06 - Noise](pgs_ss23_06_noise_script.md)
 * [Chapter 07 - Dynamics](pgs_ss23_07_dynamics_script.md)
 * [Chapter 08 - Particles](pgs_ss23_08_particles_script.md)
 * [Chapter 09 - Fluids](../03_slides/pgs_ss23_08_slides.html) (slides only!) 
