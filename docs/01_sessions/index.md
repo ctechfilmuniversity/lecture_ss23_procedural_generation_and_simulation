@@ -17,7 +17,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 * [Session 02 - Beauty in Maths](02_mathsbeauty/README.md)
 * [Session 03 - Functions](03_functions/README.md)
 * [Session 04 - Tilings](04_tilings/README.md)  
-* [Session 06 - Noise](06_noise/README.md)
+* [Session 05 - Noise](05_noise/README.md)
   
 <!-- 
   
