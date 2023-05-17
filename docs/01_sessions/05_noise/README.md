@@ -30,7 +30,7 @@ This session is due on **Monday, May 29th**. This assignment should take <= 4h. 
 
 ## Noise
 
-* Re-cap [Chapter 06 - Noise](../../02_scripts/pgs_ss23_05_noise_script.md)
+* Re-cap [Chapter 06 - Noise](../../02_scripts/pgs_ss23_06_noise_script.md)
 
 
 ## Seeing Noise 
