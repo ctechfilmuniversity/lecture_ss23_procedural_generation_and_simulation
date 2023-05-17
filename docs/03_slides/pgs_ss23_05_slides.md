@@ -16,10 +16,10 @@ layout: false
 
 ## Today
 
-* Recap
+* Homework
 
 --
-* Homework
+* Recap
 
 --
 * Noise
@@ -331,7 +331,7 @@ float h = step(mortar_half_norm_h, y) - step(1.0 - mortar_half_norm_h, y);
 ## Brick Pattern
 
 ```glsl
-// CREATING THE BRICK "OUTLINE"
+// ?
 float w = step(mortar_half_norm_w, x) - step(1.0 - mortar_half_norm_w, x);
 ```
 
@@ -341,8 +341,8 @@ float w = step(mortar_half_norm_w, x) - step(1.0 - mortar_half_norm_w, x);
 ## Brick Pattern
 
 ```glsl
-// CREATING THE BRICK "OUTLINE"
-float w = step(mortar_half_norm_w, x);
+// ?
+float w = step(t, x);
 ```
 
 .center[<img src="../02_scripts/img/04/transition_03.png" alt="transition_03" style="width:100%;">]
@@ -362,21 +362,11 @@ float w = step(mortar_half_norm_w, x);
 ## Brick Pattern
 
 ```glsl
-// CREATING THE BRICK "OUTLINE"
+// ?
 float w = step(mortar_half_norm_w, x);
 ```
 
-.center[<img src="../02_scripts/img/04/transition_03.png" alt="transition_03" style="width:100%;">]
-
----
-.header[Function Design]
-
-## Brick Pattern
-
-```glsl
-// CREATING THE BRICK "OUTLINE"
-float w = step(mortar_half_norm_w, x);
-```
+--
 
 .center[<img src="../02_scripts/img/04/bricks_03.png" alt="bricks_03" style="width:100%;">]
 
@@ -387,10 +377,12 @@ float w = step(mortar_half_norm_w, x);
 ## Brick Pattern
 
 ```glsl
-// CREATING THE BRICK "OUTLINE"
+// ?
 // float w = step(mortar_half_norm_w, x) - step(1.0 - mortar_half_norm_w, x);
 float w = step(1.0 - mortar_half_norm_w, x);
 ```
+
+--
 
 .center[<img src="../02_scripts/img/04/bricks_04.png" alt="bricks_04" style="width:95%;">]
 
@@ -401,7 +393,7 @@ float w = step(1.0 - mortar_half_norm_w, x);
 ## Brick Pattern
 
 ```glsl
-// CREATING THE BRICK "OUTLINE"
+// ?
 // float w = step(mortar_half_norm_w, x) - step(1.0 - mortar_half_norm_w, x);
 float w = step(1.0 - mortar_half_norm_w, x);
 ```
@@ -414,7 +406,7 @@ float w = step(1.0 - mortar_half_norm_w, x);
 ## Brick Pattern
 
 ```glsl
-// CREATING THE BRICK "OUTLINE"
+// ?
 float w = step(mortar_half_norm_w, x) - step(1.0 - mortar_half_norm_w, x);
 ```
 
@@ -812,22 +804,6 @@ Construction lines
 
 ## Construction Example
 
-.center[<img src="../02_scripts/img/05/construction_05.jpeg" alt="construction_05" style="width:100%;">] 
-
-
----
-.header[Islamic Patterns]
-
-## Construction Example
-
-.center[<img src="../02_scripts/img/05/construction_05.jpeg" alt="construction_05" style="width:100%;">] 
-
-
----
-.header[Islamic Patterns]
-
-## Construction Example
-
 .center[<img src="../02_scripts/img/05/construction_06.jpeg" alt="construction_06" style="width:100%;">] 
 
 ---
@@ -1045,6 +1021,30 @@ With height fields, we use for example, a noise function value as a displacement
 
 * Bump map vs. displacement map?
 
+---
+.header[Applications for Noise | Height Maps]
+
+## Bump vs. Displacement Maps?
+
+--
+* Bump maps (also called normal maps) do not change the geometry but only the normal.
+* Displacement maps alter the geometry at render time.
+
+--
+
+.center[<img src="../02_scripts/img/06/bump_displace_02.png" alt="bump_displace_02" style="width:70%;">  
+[[photigy]](https://www.photigy.com/school/bump-mapping-vs-displacement-mapping/)]
+
+
+???
+.task[COMMENT:]  
+
+* Working with a displacement map will add actual new geometry based on the provided displacement map at render time. For this, the renderer subdivides the existing geometry and moves it according to the noise values.
+
+When working with a normal or bump map (different names for the same thing), only the appearance of additional surface detail is created by changing the surface's normals at render time, without actually creating additional geometry. This approach is much faster and use less memory.
+
+
+
 
 ---
 .header[Applications for Noise]
@@ -1067,12 +1067,18 @@ In Unreal you can also build landscapes with the help of heigh maps.
 
 ## Faking Complex Systems
 
+.center[<img src="../02_scripts/img/06/noise_05.png" alt="noise_05" style="width:100%;">]
+
+
 ???
 .task[COMMENT:]  
 
 * Almost all natural systems appear to combine structure with randomness even though they in fact follow complex creation rules on different scales. As proper simulations of the underlying rules are usually quite expensive to compute, a simple addition of noise is used fake natural systems.  
 
---
+---
+.header[Applications for Noise]
+
+## Faking Complex Systems
 
 ![mush](../02_scripts/img/06/mush.gif)  
 [[thisiscolossal]](https://www.thisiscolossal.com/wp-content/uploads/2016/11/mush-1.gif) 
@@ -1085,7 +1091,7 @@ In Unreal you can also build landscapes with the help of heigh maps.
 
 --
 
-Noise adds variation for designed systems to look natural and for an aesthetic appeal.
+> Noise adds variation for designed systems to look natural and for an aesthetic appeal.
 
 
 ---
@@ -1205,6 +1211,8 @@ vs.
 ???
 .task[COMMENT:]  
 
+How could a naive implementation look like?
+
 
 ---
 .header[Noise Function Designs]
@@ -1219,16 +1227,23 @@ vs.
 * A random number for each grid point
 * Interpolate in-between
     * Again, many interpolation algorithms available
-    * Ensures spatial correlation
+    * Ensures spatial correlation inbetween
 
 ![noise_30](../02_scripts/img/06/noise_30.png)
 
 ---
 .header[Noise Function Designs]
 
-## (Lattice) Gradient Noise
+## (Lattice) Value Noise
 
-![tron](../02_scripts/img/06/tron.png) [3]
+.center[<img src="../02_scripts/img/06/perlin_12a.png" alt="perlin_12a" style="width:100%;">[[iquilezles]](http://www.iquilezles.org/)]
+
+---
+.header[Noise Function Designs]
+
+## Perlin Noise
+
+.center[<img src="../02_scripts/img/06/tron.png" alt="tron" style="width:100%;">]
 
 Ken Perlin. 1985. An image synthesizer. In Proceedings of the 12th annual conference on Computer graphics and interactive techniques (SIGGRAPH ’85). Association for Computing Machinery, New York, NY, USA, 287–296. DOI:https://doi.org/10.1145/325334.325247
 
@@ -1238,8 +1253,27 @@ Ken Perlin. 1985. An image synthesizer. In Proceedings of the 12th annual confer
 
 * Ken Perlin was commissioned to generate more realistic textures for the movie Tron in the early 1980s. He task was to break with the solid shaded look that have been used so far. The idea was to add to the solid colors a noise texture. For that he came up with an elegant noise algorithm, the *Perlin noise*. In 1997 he won the Academy Award for Technical Achievement from the Academy of Motion Picture Arts.
 
+---
+.header[Noise Function Designs]
+
+## Perlin Noise
+
+So what did Perlin invent?
+
 --
-So what did Perlin invent? Instead of values, Perlin uses random normalized *gradients* on a grid for each sample point. 
+
+Instead of values, Perlin uses random normalized *gradients* on a grid for each sample point. 
+
+--
+
+<img src="../02_scripts/img/06/perlin_07.png" alt="perlin_07" style="width:60%;">  
+[[webstaff.itn.liu.se]](http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
+
+
+???
+.task[COMMENT:]  
+
+* To get uneven frequency changes under control, we can define random normalized gradients, meaning random vectors, on a grid for each sample point instead of simply using values. 
 
 
 ---
@@ -1247,8 +1281,19 @@ So what did Perlin invent? Instead of values, Perlin uses random normalized *gra
 
 ## (Lattice) Gradient Noise
 
+> Perlin noise reduced uneven frequency changes!
 
-To get uneven frequency changes under control, we can define random normalized gradients, meaning random vectors, on a grid for each sample point instead of simply using values. Then, we interpolate a smooth function between those vectors.
+--
+
+.center[<img src="../02_scripts/img/06/perlin_06.png" alt="perlin_06" style="width:100%;">[[scratchapixel]](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2)]
+
+---
+.header[Noise Function Designs]
+
+## (Lattice) Gradient Noise
+
+* Define random normalized gradients, meaning random vectors, on a grid 
+* Interpolate a smooth function between those vectors
 
 .center[<img src="../02_scripts/img/06/perlin_03.png" alt="perlin_03" style="width:100%;">]  
 [[scratchapixel]](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2)
@@ -1266,18 +1311,71 @@ To get uneven frequency changes under control, we can define random normalized g
 
 ## (Lattice) Gradient Noise
 
-The worst case in regard to a uneven frequency distribution happens when two successive lattice points have gradients that aim at opposite directions (one points up and the other points down). Then the noise function will have a "S" like shape between the two points.
+Worst case:
 
-.center[<img src="../02_scripts/img/06/perlin_06.png" alt="perlin_06" style="width:100%;">[[scratchapixel]](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2)]
+* Two successive lattice points have gradients that aim at opposite directions
+* One points up and the other points down
+* Then the noise function will have a "S" like shape between the two points
 
-Through the use of random vectors, the distribution of frequencies in the Perlin noise is more regular than the value noise's frequency spectrum.
+
+.center[<img src="../02_scripts/img/06/perlin_05.png" alt="perlin_05" style="width:100%;">]  
+[[scratchapixel]](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2)
+
+???
+.task[COMMENT:]  
+
+* The worst case in regard to a uneven frequency distribution happens when two successive lattice points have gradients that aim at opposite directions (one points up and the other points down). Then the noise function will have a "S" like shape between the two points.
+
+* This causes the curve to go up on one side of the lattice point and down on the other side of that same point such as
+
 
 ---
 .header[Noise Function Designs]
 
 ## (Lattice) Gradient Noise
 
-![perlin_12](../02_scripts/img/06/perlin_12.png)  
+Through the use of random vectors, the distribution of frequencies in the Perlin noise is more regular than the value noise's frequency spectrum.
+
+.center[<img src="../02_scripts/img/06/perlin_06.png" alt="perlin_06" style="width:100%;">[[scratchapixel]](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2)]
+
+
+
+---
+.header[Noise Function Designs]
+
+## (Lattice) Gradient Noise
+
+.center[<img src="../02_scripts/img/06/perlin_12.png" alt="perlin_12" style="width:95%;">[[scratchapixel]](https://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds/perlin-noise-part-2)]
+
+
+---
+.header[Noise Function Designs]
+
+##  Simplex Noise
+
+Perlin was still not satisfied with his gradient noise and presented 2001 the *simplex noise*.  
+
+--
+
+For the simplex noise Perlin replaced a grid tiling of a space with a triangular tiling such as
+
+![simplex_01](../02_scripts/img/06/simplex_01.png)  
+[[webstaff.itn.liu.se]](http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf)
+
+
+
+???
+.task[COMMENT:]  
+
+* Perlin correctly argues that a square has more corners than necessary. The simplest and most compact shape that can be repeated to fill a space is an equilateral triangle. For more details about the simplex noise, please refer to [this detailed explanation](http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf).
+
+---
+.header[Noise Function Designs]
+
+## Noise
+
+
+![simplex_02](../02_scripts/img/06/simplex_02.png)  
 [[iquilezles]](http://www.iquilezles.org/)
 
 
@@ -1373,7 +1471,7 @@ To represent this, we can sum up multiple noise functions (so-called *octaves*) 
 
 --
 
-There are several techniques for computing such multi-level noises and all follow the same principle of defining a relationship between frequency and amplitude and successive octaves.
+There are several techniques for computing such multi-level noises and all follow the same principle of **defining a relationship between frequency, amplitude and successive octaves**.
 
 --
 
@@ -1404,11 +1502,7 @@ Hence, the levels are
 ---
 .header[Component Frequencies]
 
-## Perlin’s Turbulence Noise
-
-Turbulence noise is also known as Fractal Brownian Motion (fBM) or Fractal Noise.
-
---
+## Fractal Brownian Noise
 
 ![fbm_fbm](../02_scripts/img/06/fbm_fbm.gif)  
 [[Warping by Iq]](https://www.shadertoy.com/view/4s23zz)
@@ -1481,6 +1575,30 @@ A Voronoi diagram has the following characteristics:
 * Line segments are equidistant to two points. Nodes (corners) are equidistant to three (or more) points.
 
 ---
+## Voronoi Algorithm
+
+.center[<img src="../02_scripts/img/06/voronoi_growth_euclidean.gif" alt="voronoi_growth_euclidean" style="width:60%;">[[wiki]](https://de.wikipedia.org/wiki/Datei:Voronoi_growth_euclidean.gif)]
+
+???
+.task[COMMENT:]  
+
+* You could also understand the algorithm from the perspective of the points (not the pixels). This would mean that each point grows its area until it finds the growing area from another point. This mirrors some of the growth rules in nature.  
+
+--
+
+Living forms are shaped by this tension between an inner force to expand and grow, and limitations by outside forces.
+
+---
+## Voronoi Algorithm
+
+ *Cloud Cities - Tomás Saraceno (2011)*
+.center[<img src="../02_scripts/img/06/voronoi_10.png" alt="voronoi_10" style="width:48%;">  
+[[thebookofshaders]](https://thebookofshaders.com/12/)]  
+
+
+
+---
+.header[Voronoi Algorithm]
 
 ## Distances
 
@@ -1500,6 +1618,7 @@ Different distance might look as
 [[wiki]](https://en.wikipedia.org/wiki/Taxicab_geometry)]
 
 ---
+.header[Voronoi Algorithm]
 
 ## Distances
 
@@ -1508,7 +1627,9 @@ Different distance might look as
 
 ---
 
-## Noise in Houdini
+## Noise in Software
+
+--
 
 There are several different generation approaches in Houdini.
 
@@ -1518,7 +1639,7 @@ There are several different generation approaches in Houdini.
 
 ---
 
-## Texture Packs
+## Noise Texture Packs
 
 .center[<img src="../02_scripts/img/06/noise_textures_01.png" alt="noise_textures_01" style="width:100%;">
 [[polycount]](https://polycount.com/discussion/220333/80-pre-baked-3d-noise-volume-textures-for-unreal-engine-4-25)]
