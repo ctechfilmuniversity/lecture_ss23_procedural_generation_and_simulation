@@ -104,6 +104,11 @@ This was my final node set up:
 
 ### Creating a Niagara System 
 
+We will be using a Niagara system in order create 'copies' of a mesh to achieve this layered mesh effect. This will add some 3-dimensionality to our noise pattern. 
+
+A niagara system comprises of an *Emitter*, which generates particles. A particle is an object which has a location and can be assigned any number of properties to determine its look and behavior.
+What we will do in the next steps, is use the emitter to generate particles (which will be meshes) and then modify their properties with a function that makes each particle smaller than the previous in size. 
+
 1. Exit the Material Graph, right click your material and select *Create Material Instance*. 
 
 2. Double click on the instance to open the editor. You can see all the previously created parameters on the right side. Here you can apply even more tweaks to your noise texture, whilst having the opportunity to always return to your base texture. 
@@ -118,13 +123,13 @@ This was my final node set up:
 
 ![selectemitter](img/selectemitter.png)
 
-6. Open the Niagara System and you will see a simple fountain particel system set up. 
+6. Open the Niagara System and you will see a simple fountain particle system set up. As you can see the particles are moving as there are forces applied to them. The particles are also currently in the form of *Sprites*, which render Texture and Materials to 2D camera-facing planes. We would like for the particles to be a 3D object instead, which is what we will do in the next step.
 
 ![niagarafountain](img/niagarafountain.gif)
 
-7. First lets remove the **Sprite Renderer** in the Fountain node and replace it with a **Mesh Renderer** with the small red "+" on the render section. This will render meshes as particles instead. 
+7. First lets remove the **Sprite Renderer** in the Fountain node and replace it with a **Mesh Renderer** with the small red "+" on the render section. This will render meshes as particles instead the sprites. 
 
-8. Expand the *Meshes* section and the default setting will be S_Gnomon. Click on the mesh name and select any mesh you want - either from your level or Unreal developer content. 
+8. Expand the *Meshes* section and the default setting will be S_Gnomon. Click on the mesh name and select any mesh you want - either from your assets or Engine content. You should see the white dots in the preview become replaced with a mesh. 
 
 9. There is a gear icon on the right of the search bar, which if clicked, shows directories from which you can get content. 
 
