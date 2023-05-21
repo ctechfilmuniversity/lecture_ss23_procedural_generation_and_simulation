@@ -46,9 +46,7 @@ This session is due on **Monday, May 29th**. This assignment should take <= 4h. 
 
 ### Task 05.02 - A Fancy Noise Material in Unreal
 
-Complete the [Tutorial 01 - Noise](pgs_tutorial_01_noise/pgs_tutorial_01_noise.md). Come up with a good looking and individual result!
-
-> We will make further adjustments to the tutorial by Friday!
+Complete the [Tutorial 01 - Noise](pgs_tutorial_01_noise/pgs_tutorial_01_noise.md) and [Tutorial 02 - Rendering](pgs_tutorial_02_rendering/pgs_tutorial_02_rendering.md). Come up with a good looking and individual result!
   
 *Submission:* At least one preview image and one animation, e.g. as gif, of your scene, linked in your `pgs_ss23_05_lastname.md` file.
 

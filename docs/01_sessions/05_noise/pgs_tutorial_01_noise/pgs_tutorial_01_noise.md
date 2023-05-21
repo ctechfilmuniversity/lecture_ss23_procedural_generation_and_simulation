@@ -179,7 +179,7 @@ What we will do in the next steps, is use the emitter to generate particles (whi
 
 ![finalresult](img/finalresult.gif)
 
-21. (EXTRA: If you also want to add some additional effects to your creation, you can try apply some post-processing directly in the *Scene Preview*. Click **Window** at the top of your screen and select *Preview Scene Settings*. You can set the parameters to your liking and have a preview of the effects without having to set up a whole scene in Unreal.) 
+21. For adding some post-processing effects to your creation, complete the follow-up [Rendering Tutorial](../pgs_tutorial_02_rendering/pgs_tutorial_02_rendering.md). It will also give you insights into how to render out an image sequences to create a video or gif file from.
 
 That is it! Now you can tweak the settings even more and play around with different meshes, noises or particle settings to achieve something that you like. 
 
