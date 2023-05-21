@@ -13,11 +13,11 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 ## Tutorial 01 - Noise Tutorial
 
-This tutorial shows how to create a animated material, which can later be applied to any mesh. We will also create a Niagara system and additionally use some post-processing to make the effect even more interesting.
+This tutorial shows how to create an animated material, which can later be applied to any mesh. We will also create a Niagara system and additionally use some post-processing to make the effect even more interesting.
 
 ![trianglenoise](img/trianglenoise.gif)
 
-This tutorial is by Sylvia Rybak, with some modification by Lena. The tutorial is based off of [CGHow's Layered Noise Tutorial](https://www.youtube.com/watch?v=Hb9Fl1WU5K8&t=72s).
+This tutorial is by Sylvia Rybak, with some modifications by Lena. The tutorial is based off of [CGHow's Layered Noise Tutorial](https://www.youtube.com/watch?v=Hb9Fl1WU5K8&t=72s).
 
 
 ### Creating A Noise Based Material 
@@ -93,7 +93,7 @@ The nodes should look like the gif below and you should see the material moving 
 
 ![loopspeed](img/loopspeed.png). 
 
-8. The final step is to change the material itself. Connect the output of the power node to the **Opacity** of the material. Click on the **Material Node** and in the parameters on the left change the *Blend Mode* to "Masked" and check "Two Sided". I also plugged a **Particle Color** node into the base color, as I want to control the color from my Niagara system. 
+8. The final step is to change the material itself. Connect the output of the power node to the **Opacity Mask** of the material. Click on the **Material Node** and in the parameters on the left change the *Blend Mode* to "Masked" and check "Two Sided". I also plugged a **Particle Color** node into the base color, as I want to control the color from my Niagara system. 
 
 9. Customize the material however you want by modifying values such as *Metallic* or *Roughness*. 
 
