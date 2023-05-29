@@ -8,6 +8,7 @@ Submit at least three pictures of natural noise patterns. You can photograph the
 <img src="img/noise4.jpeg" style="display: inline; width: 450px;">
 <img src="img/noise5.jpeg" style="display: inline; width: 450px;">
 <img src="img/noise6.jpeg" style="display: inline; width: 450px;">
+<img src="img/noise7.jpeg" style="display: inline; width: 450px;"> (kite exhibition, hi!)
 
 Submit one stylized / artistic image that uses noise as generating principle or design element. You can find it on the internet.
 Submission: Link all files in your pgs_ss23_05_lastname.md file.
@@ -22,7 +23,7 @@ Complete the Tutorial 01 - Noise and Tutorial 02 - Rendering. Come up with a goo
 
 Submission: At least one preview image and one animation, e.g. as gif, of your scene, linked in your pgs_ss23_05_lastname.md file.
 
-Rendered image ( Fail. This ball was deleted and still there ! ):</br>
+Rendered image:</br>
 <img src="img/render.gif" style="display: inline-block; "></br>
 
 Unreal image (it looks so much better):</br>
