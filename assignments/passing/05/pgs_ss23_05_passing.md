@@ -22,17 +22,14 @@ Outcome tutorial:
 
 ![render niagra thingy](img/render1.jpeg)
 
-<video controls>
-<source src="vid/video1.webm" type="video/webm">
-<a href="vid/video1.webm">watch webm video</a></video>
+[video.webm](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/1006478/cfe04c0e-ff6e-4e47-ac2d-4000a7d9e7a6)
 
 Outcome playing with animated material and post processing
 
 ![render lava](img/render2.jpeg)
 
-<video controls>
-<source src="vid/video2.webm" type="video/webm">
-<a href="vid/video2.webm">watch webm video</a></video>
+[video2.webm](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/1006478/ad73a62b-480f-4b81-970a-2ecc30389123)
+
 
 
 # Task 05.03 - Learnings
