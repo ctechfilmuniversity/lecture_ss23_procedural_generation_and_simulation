@@ -22,13 +22,17 @@ Outcome tutorial:
 
 ![render niagra thingy](img/render1.jpeg)
 
-<video src="vid/video2.webm"><a href="vid/video1.webm">watch webm video</a></video>
+<video controls>
+<source src="vid/video1.webm" type="video/webm">
+<a href="vid/video1.webm">watch webm video</a></video>
 
 Outcome playing with animated material and post processing
 
 ![render lava](img/render2.jpeg)
 
-<video src="vid/video2.webm"><a href="vid/video2.webm">watch webm video</a></video>
+<video controls>
+<source src="vid/video2.webm" type="video/webm">
+<a href="vid/video2.webm">watch webm video</a></video>
 
 
 # Task 05.03 - Learnings
