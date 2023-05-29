@@ -32,13 +32,26 @@ This session is due on **Monday, May 29th**. This assignment should take <= 4h. 
 
 * Re-cap [Chapter 06 - Noise](../../02_scripts/pgs_ss23_06_noise_script.md)
 
-
 ## Seeing Noise 
 
 ### Task 05.01 - Collecting Inspiration
 
 * Submit at least three pictures of natural noise patterns. You can photograph them yourself (recommended) or find them on the internet.
+Pretty good motivation to scroll on my phone endlessly. :) 
+
+<br> Natural Noise
+![](imgs/01.png)
+
 * Submit one stylized / artistic image that uses noise as generating principle or design element. You can find it on the internet.
+
+I find this interesting as it's a sketch by Nam June Paik which played a lot with "digital" noise: 
+![](imgs/02.png)
+
+As a painting principle:
+![](imgs/03.png)
+
+A photographer that plays with the principle of noise:
+![](imgs/04.png)
 
 *Submission:* Link all files in your `pgs_ss23_05_lastname.md` file.
 
