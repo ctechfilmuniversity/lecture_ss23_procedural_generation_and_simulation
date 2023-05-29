@@ -8,8 +8,6 @@ Submit at least three pictures of natural noise patterns. You can photograph the
 <img src="img/noise4.jpeg" style="display: inline; width: 450px;">
 <img src="img/noise5.jpeg" style="display: inline; width: 450px;">
 <img src="img/noise6.jpeg" style="display: inline; width: 450px;">
-<img src="img/noise7.jpeg" style="display: inline; width: 450px;">
-
 
 Submit one stylized / artistic image that uses noise as generating principle or design element. You can find it on the internet.
 Submission: Link all files in your pgs_ss23_05_lastname.md file.
