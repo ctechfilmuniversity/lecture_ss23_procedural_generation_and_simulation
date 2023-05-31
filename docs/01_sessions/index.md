@@ -18,10 +18,11 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 * [Session 03 - Functions](03_functions/README.md)
 * [Session 04 - Tilings](04_tilings/README.md)  
 * [Session 05 - Noise](05_noise/README.md)
+* [Session 06 - Dynamics](06_dynamics/README.md)
   
 <!-- 
   
-* [Session 07 - Dynamics](07_dynamics/README.md)
+
 * [Session 08 - Particles](08_particles/README.md)
 * [Session 09 - Fluids](09_fluids/README.md)
 * [Session 10 - WrapUp & Final Project](10_wrapup/README.md)
