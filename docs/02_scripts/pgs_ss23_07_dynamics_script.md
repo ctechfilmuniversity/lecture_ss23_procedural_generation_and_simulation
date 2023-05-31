@@ -44,8 +44,7 @@ With this script you gain
 * an understanding of the theoretical backgrounds of dynamics
     * Calculus
     * Velocity, acceleration, forces, ...
-    * Newton’s Laws of Motion
-* the ability to transfer the theory to examples of dynamic systems in Houdini.
+    * Newton’s Laws of Motion.
 
 ## Moving Stuff
 

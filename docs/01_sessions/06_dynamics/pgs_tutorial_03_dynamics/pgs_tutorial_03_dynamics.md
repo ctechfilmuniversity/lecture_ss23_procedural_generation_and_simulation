@@ -17,7 +17,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 
 You can find the Blueprint file in the tutorial folder with the full node set up. (Just drag it into Contents in your Unreal folder)
 
-The tutorial is based off of the [Unreal Engine 5 | Generative Motion Graphics / VFX](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/) tutorial by Yu Fujishiro.
+The tutorial is based off of the [Unreal Engine 5: Generative Motion Graphics / VFX](https://www.udemy.com/course/ue5-procedural-vfx-motion-graphics/) tutorial by Yu Fujishiro.
 
 All the explanations are based off of the official Unreal Documentation. 
 
