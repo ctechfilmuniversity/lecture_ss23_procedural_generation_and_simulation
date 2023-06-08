@@ -19,6 +19,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 * [Session 04 - Tilings](04_tilings/README.md)  
 * [Session 05 - Noise](05_noise/README.md)
 * [Session 06 - Dynamics](06_dynamics/README.md)
+* [Session 07 - Particles](07_particles/README.md)
   
 <!-- 
   
