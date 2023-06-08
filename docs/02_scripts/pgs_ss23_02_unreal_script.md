@@ -22,7 +22,6 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
         * [Text Based](#text-based)
         * [Video Tutorials](#video-tutorials)
         * [First Steps Tutorials](#first-steps-tutorials)
-        * [Procedural Content Generation Plugin](#procedural-content-generation-plugin)
     * [Features](#features)
         * [Assets and the Market Place](#assets-and-the-market-place)
         * [Marketplace](#marketplace)
@@ -37,6 +36,7 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
             * [Tutorials](#tutorials)
             * [Procedural Workflows](#procedural-workflows)
         * [Niagara](#niagara)
+            * [Tutorials](#tutorials-1)
         * [Post-Processing](#post-processing)
         * [Nanite](#nanite)
         * [Lumen](#lumen)
@@ -140,12 +140,7 @@ Unreal
     * This tutorial is a bit too simple at times for those who already have experience with 3D softwares but it provides a good overview of shortcuts and basic functionalities.
 * As a start, a good idea is also to browse through the [content examples](https://docs.unrealengine.com/5.1/en-US/content-examples-sample-project-for-unreal-engine/) provided by Unreal, which contain maps showcasing different concepts and functionalities.
 
-### Procedural Content Generation Plugin
 
-* Unreal Engine - [Procedural Content Generation in UE5: GDC 2023](https://www.youtube.com/watch?v=aoCGLW53fZg&t=324s) (from April 2023; we are pretty up-to-date 😁)
-* Gorka Games - [NEW Unreal Engine 5.2 Procedural Plugin Tutorial - How to Use It Very Easy!](https://www.youtube.com/watch?v=0YiDT08W_q8)
-* UnrealityBites - [UE5.2: Procedural Content Generation (inc. how to exclude zones)](https://www.youtube.com/watch?v=RBFvkfZxJJk), [UE5.2: Dramatically Improve Moving Foliage Performance using this PCG parameter](https://www.youtube.com/watch?v=9DY9Xe1KRW8)
-* UNF Games - [Procedural Content Generation Tutorial Unreal Engine 5 - Create a Forest](https://www.youtube.com/watch?v=8c1t4Pok_E8)
 
 
 ## Features
@@ -234,6 +229,7 @@ The Procedural Generation Plugin has been introduced as an experimental feature 
 * UnrealityBites - [UE5.2: Procedural Content Generation (inc. how to exclude zones)](https://www.youtube.com/watch?v=RBFvkfZxJJk), [UE5.2: Dramatically Improve Moving Foliage Performance using this PCG parameter](https://www.youtube.com/watch?v=9DY9Xe1KRW8)
 * UNF Games - [Procedural Content Generation Tutorial Unreal Engine 5 - Create a Forest](https://www.youtube.com/watch?v=8c1t4Pok_E8)
 
+
 #### Procedural Workflows
 
 There are some practical guidelines, you can keep in mind in order to adhere to a procedural workflow:
@@ -269,7 +265,48 @@ You can create functions, include inputs, or write to a value or parameter map.
 
 You can find a more detailed overview of Niagara systems within the [Unreal documentation](https://docs.unrealengine.com/5.1/en-US/overview-of-niagara-effects-for-unreal-engine/). 
 
+#### Tutorials
+
+##### Introduction
+
+There are various introductory tutorials for Niagara in different lengths, complexity etc. on Youtube. Just search for Niagara on Youtube and go with what looks good to you, e.g.:
+
+* [Youtube, My GameDev Pal: UE5 Niagara in 300 Seconds](https://www.youtube.com/watch?v=Wxx_2ZLoKbI)
+* [Youtube, My GameDev Pal: UE5 Visual Effects](https://www.youtube.com/playlist?list=PLuGJ2Hd3jyy1BqrVyX9YbmRPKggAv8DI8)
+* [Youtube, unreal magic: Niagara system beginner tutorial in unreal engine 5](https://www.youtube.com/watch?v=_6YbcMhfHWg&t=40s)
+* [Youtube, PrismaticaDev: Intro to Niagara Particles](https://www.youtube.com/watch?v=04k9JDx-KTM&list=PLUi8nuTUEtTshYxpmR7brPE3tV7JsO0VP&pp=iAQB)
+* [Youtube, CGHOW: Unreal Engine 5 Niagara Beginner Tutorial - UE5 Niagara Starter Course!](https://www.youtube.com/watch?v=NcJ1ZP7tFUk)
+* [Youtube, Mr. Hollt: Learn This UNREAL 5 NIAGARA Particle Sim](https://www.youtube.com/watch?v=hcGDnIqXlXw&t=34s)
+
+Beyond Youtube there are not that many resources yet, but we do recommend any material from the official documentation:
+
+* [Niagara Tutorials](https://docs.unrealengine.com/5.1/en-US/tutorials-for-niagara-effects-in-unreal-engine/)
+
+
+##### Special Topics
+
+For topic-specific tutorials, have a look into these:
+
+* [Youtube, Ghislain Girardot: A deep dive into Boids using Niagara in Unreal Engine](https://www.youtube.com/watch?v=9iDA6WMqEyQ) (55min)
+* [Youtube, CGHOW: Magical Trails ](https://www.youtube.com/watch?v=N3Bwa_urhG8) (18 mins)
+* [Youtube, CGHOW: Nebulae](https://www.youtube.com/watch?v=4DoiE8Amxro) (8 mins)
+* [Youtube, CGHOW: Ribbons](https://www.youtube.com/watch?v=92z2tA8ZrEI) (16 mins)
+* [Youtube, CGHOW: Disintegration](https://www.youtube.com/watch?v=4dYg4bvf4Rc) (27 mins)
+* [Youtube, CGHOW: Chladni Patterns Niagara](https://www.youtube.com/watch?v=CrOWIqJcguM) (23 mins)
+* [Youtube, renderBucket: Unreal Engine 5 Flamethrower](https://www.youtube.com/watch?v=k3EBxQGVSj8) (2 Parts: 18 and 14 mins)
+* [Youtube, FXology: Tentacles in Niagara](https://www.youtube.com/watch?v=aDDCKeEWt4g&t=861s) (22 mins)
+* [Youtube, Sem Schreuder: Let's build this Unreal Niagara audio visualizer within 10 minutes](https://www.youtube.com/watch?v=aDDCKeEWt4g&t=861s) (Unreal 4!)(11 mins)
+
+##### Fluids
+
+* [Official Unreal: Niagara Fluids Learning Path for Beginners (Niagara Fluid Plugin)](https://dev.epicgames.com/community/learning/paths/mZ/niagara-fluids)
+* [Working with Niagara Fluids to Create Water Simulations](https://80.lv/articles/working-with-niagara-fluids-to-create-water-simulations/)
+* [Youtube, UNF Games: Unreal Engine 5 Niagara Fluids Tutorial for Beginners](https://www.youtube.com/watch?v=kGG4xTTbF_I) (51 Minutes)
+* [Youtube, renderBucket: Niagara Fluids & Intro To FLIP Fluids/3D Water & Foam](https://www.youtube.com/watch?v=1pISJAPjDS4) (21 Minutes)
+
+
 ### Post-Processing
+
 Post Process Effects allow us to tweak the overall look and feel of the scene. Examples of elements and effects include bloom (HDR blooming effect on bright objects), ambient occlusion, tone mapping, but also "camera lens" settings such as depth of field and exposure. 
 
 To use Post-Processing effects within your scene, you have to first add a *Post Process Volume* into your level. It will look like an empty box, which you have to resize the cover all the elements within you scene (or just the ones you want the effect applied to). There is also an official [Post-Processing Unreal tutorial](https://dev.epicgames.com/community/learning/courses/pE2/unreal-engine-introducing-post-processing/mZ11/unreal-engine-introducing-post-processing-overview) on this very topic. 
