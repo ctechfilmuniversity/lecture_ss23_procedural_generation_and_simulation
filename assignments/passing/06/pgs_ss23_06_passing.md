@@ -4,7 +4,7 @@
 
 ![cube img](assets/CubeLevel.0184.jpg)
 
-![cube video](assets/cubeRender.webm)
+[cubeRender.webm](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/1006478/a7b2cfd2-840d-413d-94df-e58ba895c870)
 
 I have a hard time to come up with ideas that "look good". So this time I tried to base it on the image of the [New York skyline engulfed by the forest fire smoke](https://people.com/time-lapse-shows-nyc-skyline-cosumed-wildfire-smoke-watch-7509843). That got me started pretty well and then I could go from there.
 
