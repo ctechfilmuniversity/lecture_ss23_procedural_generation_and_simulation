@@ -64,7 +64,7 @@ From the process:
 
 Result:
 ![result1](img/mircea_02_result.png)  
-![result2](img/mircea_02_result2.png)  
+![result2](img/mircea_02_result_2.png)  
 
 ## Learnings
 
