@@ -45,6 +45,11 @@ For this task you do not have to create a designed scene, the task is just about
   
 *Submission:* At least one preview image of your experimental scene, linked in your `pgs_ss23_04_lastname.md` file.
 
+I experimented with the different characteristics and parameters  of the materials: 
+
+![](img/01_01.png)
+![](img/01_02.png)
+![](img/01_03.png)
 
 ### Task 04.02 - Custom Material Expressions - OPTIONAL
 
