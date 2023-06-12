@@ -62,6 +62,14 @@ A photographer that plays with the principle of noise:
 Complete the [Tutorial 01 - Noise](pgs_tutorial_01_noise/pgs_tutorial_01_noise.md) and [Tutorial 02 - Rendering](pgs_tutorial_02_rendering/pgs_tutorial_02_rendering.md). Come up with a good looking and individual result!
   
 *Submission:* At least one preview image and one animation, e.g. as gif, of your scene, linked in your `pgs_ss23_05_lastname.md` file.
+Process:
+
+![](imgs/task_1.png)
+
+Result:
+![](imgs/task_2.jpeg)
+![](imgs/task_3.jpeg)
+![](imgs/task.gif)
 
 
 ## Learnings
