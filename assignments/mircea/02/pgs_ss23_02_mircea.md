@@ -61,6 +61,8 @@ This concept should ideally include
 
 From the process:
 ![process](img/mircea_02_process.png)  
+![process](img/001.png)  
+![process](img/002.png)  
 
 Result:
 ![result1](img/mircea_02_result.png)  
