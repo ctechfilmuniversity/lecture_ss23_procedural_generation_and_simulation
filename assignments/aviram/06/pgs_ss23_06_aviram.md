@@ -2,11 +2,11 @@
 ### Task 06.01 - Not Very Fancy Cubes
 Submit at least three pictures of natural noise patterns. You can photograph them yourself (recommended) or find them on the internet.
 
-<img src="img/boom.png" style="display: inline; width: 450px;"> <br/><br/>
+<img src="img/boom1.png" style="display: inline; width: 450px;"> <br/><br/>
 <img src="img/boom.gif" style="display: inline; width: 450px;"><br/><br/>
 
 
-[boom.webm](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/img/boom.webm)
+[boom.webm](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assignments/aviram/06/img/boom.webm)
 
 
 ## Learnings
