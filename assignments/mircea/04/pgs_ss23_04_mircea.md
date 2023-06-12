@@ -47,9 +47,9 @@ For this task you do not have to create a designed scene, the task is just about
 
 I experimented with the different characteristics and parameters  of the materials: 
 
-![](img/01_01.png)
-![](img/01_02.png)
-![](img/01_03.png)
+![](img/01_1.png)
+![](img/01_2.png)
+![](img/01_3.png)
 
 ### Task 04.02 - Custom Material Expressions - OPTIONAL
 
