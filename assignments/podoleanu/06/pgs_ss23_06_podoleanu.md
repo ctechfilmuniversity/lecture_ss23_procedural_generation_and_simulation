@@ -37,6 +37,8 @@ This session is due on **Monday, June 12th**. This assignment should take <= 4h.
 ![](preview.png)
 ![](preview.webm)
 
+[preview.webm](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/45203363/0939e84b-af3e-45b3-846d-db73866a3f37)
+
 ## Learnings
 
 ### Task 06.02
