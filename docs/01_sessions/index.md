@@ -20,12 +20,10 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 * [Session 05 - Noise](05_noise/README.md)
 * [Session 06 - Dynamics](06_dynamics/README.md)
 * [Session 07 - Particles](07_particles/README.md)
+* [Session 09 - Fluids](09_fluids/README.md)
   
 <!-- 
   
-
-* [Session 08 - Particles](08_particles/README.md)
-* [Session 09 - Fluids](09_fluids/README.md)
 * [Session 10 - WrapUp & Final Project](10_wrapup/README.md)
 
  -->
