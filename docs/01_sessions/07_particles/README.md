@@ -34,7 +34,7 @@ This assignment should take <= 4h. If you need longer, please comment on that in
 
 ### Task 07.01 - Lecture Topics
 
-Read [Chapter 08 - Particles](../../02_scripts/pgs_ss23_07_dynamics_script.md). You can also have a look at the [slides](../../03_slides/pgs_ss23_07_slides.html), if that works better for you.
+Read [Chapter 08 - Particles](../../02_scripts/pgs_ss23_08_particles_script.md). You can also have a look at the [slides](../../03_slides/pgs_ss23_07_slides.html), if that works better for you.
 
 
 ## Unreal
