@@ -8,9 +8,16 @@ Even though the tutorial itself is one hour, it took me several hours to compreh
 
 The result:
 
-
+![](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/07/2dGrid.gif?raw=true)
 
 
 
 The process:
 
+![](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/07/01.jpg?raw=true)
+
+![](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/07/02.jpg?raw=true)
+
+![](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/07/03.jpg?raw=true)
+
+![](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/07/04.jpg?raw=true)
