@@ -2,11 +2,10 @@
 ### Task 07.02 - Introduction To Niagara
 [Intro to Niagara Particles](https://www.youtube.com/watch?v=04k9JDx-KTM&list=PLUi8nuTUEtTshYxpmR7brPE3tV7JsO0VP)
 
-Gifs:
+Gifs:<br/>
 <img src="img/particle1.gif" style="display: inline; width: 450px;"> <br/><br/>
-<img src="img/particle2.gif" style="display: inline; width: 450px;"> <br/><br/>
-
-Imgs:
+<img src="img/particle2.gif" style="display: inline; width: 450px;"> <br/><br/><br/>
+Imgs:<br/>
 <img src="img/particle1.png" style="display: inline; width: 550px;"> <br/><br/>
 <img src="img/particle2.png" style="display: inline; width: 550px;"> <br/><br/>
 
@@ -15,9 +14,9 @@ Imgs:
 ### 07.03 - Particles
 [Let's build this Unreal Niagara audio visualizer within 10 minutes](https://www.youtube.com/watch?v=UETAS5g-q4M&t=301s)
 
-Gif:
+Img:<br/>
 <img src="img/audio-visual.png" style="display: inline; width: 450px;"> <br/><br/><br/>
-Img:
+Gif:<br/>
 <img src="img/audio-visual.gif" style="display: inline; width: 450px;"> <br/><br/>
 
 
