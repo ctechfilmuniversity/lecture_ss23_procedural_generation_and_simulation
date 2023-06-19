@@ -1,0 +1,16 @@
+##### Particles and Fluids
+
+I followed this tutorial https://www.youtube.com/watch?v=PCA5jQwFvug
+
+Even though the tutorial itself is one hour, it took me several hours to comprehend what is going on and I am still do not understand approximately the half of the process. Nevertheless I got to learn what are Simulation stages are, how to add and edit custom simulate stages, also what is scratch module, how to add attributes there, how to change the system to GPU (compute shaders) and some other tricks whch would be applicable for blueprint in general and simulation systems in particular. 
+
+
+
+The result:
+
+
+
+
+
+The process:
+
