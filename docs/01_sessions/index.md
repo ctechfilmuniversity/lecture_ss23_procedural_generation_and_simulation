@@ -21,9 +21,4 @@ Teaching Assistant: Sylvia Rybak \| sylvia.rybak@filmuniversitaet.de
 * [Session 06 - Dynamics](06_dynamics/README.md)
 * [Session 07 - Particles](07_particles/README.md)
 * [Session 08 - Fluids](08_fluids/README.md)
-  
-<!-- 
-  
-* [Session 10 - WrapUp & Final Project](10_wrapup/README.md)
-
- -->
+* [Session 09 - Final Project](09_finalproject/README.md)
