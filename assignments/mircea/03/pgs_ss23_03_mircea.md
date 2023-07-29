@@ -73,7 +73,9 @@ One cell of the brick pattern is parameterized as follows:
 
 ![tex_brick_params](img/tex_brick_params.png)
 
-*Submission:* Your `brick_lastname.frag` file.
+Submission: 
+
+[brick_mircea.frag](./brick_mircea.frag)
 
 ### Task 03.03 - Experiments
 
@@ -81,18 +83,24 @@ Come up with your own experimental pattern. You do not need to follow a design g
 
 You can also start with the given brick pattern and change that. For example:
 
-![brick_variation_02](img/brick_02.png)
+Submission: 
 
-Alternatively, you can combine this task with experimenting with nodes in the Material Editor in Unreal and / or using the Custom node (see [Session 04](../04_tilings/README.md#unreal)). Also, you do not have to start with the brick pattern, if you don't want to - as long as you work with different function components.
+Based on Lewis Leptons tutorials (commented at the beginning of each example):
 
-*Submission:* Your `experiments_lastname.frag` file and an image of your shader, linked in your `pgs_ss23_03_lastname.md` file.
+[experiments_mircea_01.frag](./experiments_mircea_01.frag)
+![experiment_1.gif](./img/experiment_1.gif)
 
+[experiments_mircea_02.frag](./experiments_mircea_02.frag)
+![experiment_2.gif](./img/experiment_2.gif)
 
 ### Task 03.04 - Inspiration
 
 Go to the [shadertoy](https://www.shadertoy.com/) site and browse the examples a bit. Submit the link to one example you like (you don't have to understand the code). Add that link to a file `pgs_ss23_03_lastname.md` and submit it in your folder.
 
-*Submission:* Links in your `pgs_ss23_03_lastname.md` file.
+THIS IS INCREDIBLE - it's a bit glitchy and due to the fact that it also moves with the mouse its sometimes weird but SOMETIMES it looks incredibly natural.
+[seascape](https://www.shadertoy.com/view/Ms2SD1)
+
+![seascape](./img/seascape.gif)
 
 ## Unreal
 
