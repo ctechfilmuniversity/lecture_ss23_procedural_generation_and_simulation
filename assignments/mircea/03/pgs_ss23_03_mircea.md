@@ -69,10 +69,6 @@ Read [Chapter 04 - Function Design](../../02_scripts/pgs_ss23_03_functions_scrip
 
 Understand the given brick pattern code in the [`brick.frag`](brick.frag) file and insert comments explaining for each code line of the brick pattern what it does and submit your copy as `brick_lastname.frag` in your assignments folder.
 
-One cell of the brick pattern is parameterized as follows:
-
-![tex_brick_params](img/tex_brick_params.png)
-
 Submission: 
 
 [brick_mircea.frag](./brick_mircea.frag)
@@ -88,10 +84,10 @@ Submission:
 Based on Lewis Leptons tutorials (commented at the beginning of each example):
 
 [experiments_mircea_01.frag](./experiments_mircea_01.frag)
-![experiment_1.gif](./img/experiment_1.gif)
+![experiment_1.gif](experiment_1.gif)
 
 [experiments_mircea_02.frag](./experiments_mircea_02.frag)
-![experiment_2.gif](./img/experiment_2.gif)
+![experiment_2.gif](experiment_2.gif)
 
 ### Task 03.04 - Inspiration
 
@@ -100,7 +96,7 @@ Go to the [shadertoy](https://www.shadertoy.com/) site and browse the examples a
 THIS IS INCREDIBLE - it's a bit glitchy and due to the fact that it also moves with the mouse its sometimes weird but SOMETIMES it looks incredibly natural.
 [seascape](https://www.shadertoy.com/view/Ms2SD1)
 
-![seascape](./img/seascape.gif)
+![seascape](seascape.gif)
 
 ## Unreal
 
