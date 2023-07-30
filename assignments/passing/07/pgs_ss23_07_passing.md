@@ -16,14 +16,13 @@
 I chose the [UE5 Nebula tutorial](https://www.youtube.com/watch?v=4DoiE8Amxro) by CGHOW. It's not the best but it combines a few things we did and it leaves out so much that you have to tweak it yourself anyway.
 
 ![nebula3](img/nebula3.jpeg)
-
-[video](video/nebula3.webm)
+[video](video/Nebula3.webm)
 
 ![nebula4](img/nebula4.jpeg)
-[video](video/nebula4.webm)
+[video](video/Nebula4.webm)
 
 ![nebula5](img/nebula5.jpeg)
-[video](video/nebula5.webm)
+[video](video/Nebula5.webm)
 
 ## 07.04 Learnings
 
