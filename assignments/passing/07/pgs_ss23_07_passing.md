@@ -17,9 +17,13 @@ I chose the [UE5 Nebula tutorial](https://www.youtube.com/watch?v=4DoiE8Amxro) b
 
 ![nebula3](img/nebula3.jpeg)
 
+[video](video/nebula3.webm)
+
 ![nebula4](img/nebula4.jpeg)
+[video](video/nebula4.webm)
 
 ![nebula5](img/nebula5.jpeg)
+[video](video/nebula5.webm)
 
 ## 07.04 Learnings
 
