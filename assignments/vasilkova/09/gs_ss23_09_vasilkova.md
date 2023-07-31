@@ -26,6 +26,8 @@
 
   Of course there are a lot of "imperfections", but overall I think it is a good result for the beginning.
 
+  Here is "glitchy" gif of the project https://1drv.ms/i/s!AtaC4jc6Ia1DlolZnAXTFJsXenLz6g?e=DwZ6OI
+
   ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/a28969f5-c474-41cf-8ee3-207e9d78e688)
 
   ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/d4f723fa-5053-479f-b8c9-a8bd2df95301)
