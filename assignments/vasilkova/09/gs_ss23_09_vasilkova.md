@@ -26,11 +26,15 @@
 
   Of course there are a lot of "imperfections", but overall I think it is a good result for the beginning.
 
-  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00000.png?raw=true
-  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00001.png?raw=true
-  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00002.png?raw=true
-  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00003.png?raw=true
-  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00004.png?raw=true
+  ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/a28969f5-c474-41cf-8ee3-207e9d78e688)
 
-  
+  ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/d4f723fa-5053-479f-b8c9-a8bd2df95301)
+
+  ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/5677035c-e200-4e46-8d55-a0b3857ff122)
+
+  ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/911e373b-f6d2-40c4-a7a2-04f5683d6e31)
+
+  ![image](https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/assets/15873461/519fdeef-f857-43df-8ccc-87d4077ce625)
+
+
 
