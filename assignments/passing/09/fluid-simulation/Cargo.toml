@@ -1,0 +1,8 @@
+[workspace]
+
+members = [
+         "liquid_smooth",
+         "fluid"
+]
+
+resolver = "2"
