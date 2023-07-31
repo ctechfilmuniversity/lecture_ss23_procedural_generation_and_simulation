@@ -21,6 +21,7 @@ This assignment should take <= 4h. If you need longer, please comment on that in
 - [Session 02 - Beauty in Maths (10 points)](#session-02---beauty-in-maths-10-points)
   - [The Theory](#the-theory)
   - [Task 02.01 - Creative Project Development Numbers and Curves](#task-0201---creative-project-development-numbers-and-curves)
+  - [](#)
   - [Unreal](#unreal)
     - [Task 02.02 - Procedural Generation Plugin](#task-0202---procedural-generation-plugin)
   - [Learnings](#learnings)
@@ -54,6 +55,30 @@ This concept should ideally include
 
 *Submission*: Your concept.
 
+**Interactive sound-light installation**
+
+* People walk into a dark space that is filled with haze. Lasers fill out the air and are moving in patterns. Sound can be heard from good speakers.
+
+* Lasers are moving in shape of Rose Curve.
+
+* Sensors and tools like TensorFlow count the number of people in room and this data drives the variables in Rose Curve functions and it generates different tones and sounds. Based on the loudness of people in the room - music reacts to it
+
+* Goal would be to let people move through various counting zones and play with each other in order to create and atmpsphere they like
+
+
+![inspiration](img/i1.jpg)
+![inspiration](img/i2.jpg)
+
+##
+
+* Infrared cameras would capture the rooms and tools like OpticalFlow or TensorFlow would simply count the number of people and send this data over API to Touchdesigner
+
+* Touchdesigner would drive lasers and GLSL code would drive the algorythm. I would use MaxMSP to use the same data for different soundscape triggering.
+
+![inspiration](img/i3.jpg)
+
+
+
 ## Unreal
 
 ### Task 02.02 - Procedural Generation Plugin
@@ -83,14 +108,16 @@ Hints
 * You can use any assets you want and the result does not need to look like a forest at all. Just distribute other objects in a forest-like manner.
 * For adding assets (in the tutorial the "temperate Vegetation: Spruce Forest" is used and works well in 5.2) from to market place that are officially not compatible with 5.2 you can use [the following approach](https://dev.epicgames.com/community/learning/tutorials/6G1D/unreal-engine-5-how-to-use-assets-that-are-not-compatible-with-ue5-in-ue5):
 
-![pcg_01](img/pcg_01.png)  
-![pcg_02](img/pcg_02.png)  
 
 
 Check the [Unreal Script](../../02_scripts/pgs_ss23_02_unreal_script.md#procedural-content-generation-plugin) for more resources regarding the new Procedural Content Generation plugin.
 
 
-*Submission*: At least one preview image (linked here).  
+*Submission*: At least one preview image (linked here). 
+
+![pcg_01](img/ss_01.jpg)  
+![pcg_02](img/ss_02.jpg)  
+
 
 Eventually, we also want to render videos and if you are interested, have a look into the topic yourself. But for this submission a video is not a requirement.
 
@@ -100,6 +127,9 @@ Eventually, we also want to render videos and if you are interested, have a look
 ### Task 02.03
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
+
+* It was a fun practical and useful lesson
+* The script itself was very hard for me to go through and I had to branch out and watch many tutorials and lessons about basic math.
 
 ---
   

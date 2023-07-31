@@ -41,7 +41,7 @@ This session is due on **Monday, May 29th**. This assignment should take <= 4h. 
 
 *Submission:*
 
-![natural](img/n_01.jpg)
+
 ![natural](img/n_02.jpg)
 ![natural](img/n_03.jpg)
 ![natural](img/n_04.jpg)

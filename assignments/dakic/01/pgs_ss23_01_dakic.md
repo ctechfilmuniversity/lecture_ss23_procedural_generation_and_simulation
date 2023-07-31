@@ -84,20 +84,48 @@ Briefly in your own words: how would you explain your nanny what *procedural gen
 
 Take at least three pictures of natural patterns and at least three pictures of man-made ones (patterns can be two or three dimensional). Try to include at least one pattern with self-similarity. Taking the pictures with your smart phone is just fine. Link all images in this markdown file.
 
+Natural patterns:
+![pattern](img/natural_pattern_02.jpg)
+![pattern](img/natural_pattern_03.jpg)
+![pattern](img/natural_pattern_04.jpg)
+![pattern](img/natural_pattern_01.jpg)
+
+
+Man made patterns:
+
+![manPattern](img/man_pattern_01.jpg)
+![manPattern](img/man_pattern_02.jpg)
+![manPattern](img/man_pattern_03.jpg)
 
 
 ### Task 01.04 - Understanding and Implementing Patterns
 
 Write for one of your pattern images a generating algorithm in pseudo-code or code. Submit the code below.
 
+
+Simple quasi QR code
+```
+w , h = 60
+grid = w * h
+
+generate.random FillPixel(0, w, 0, h)
+
+```
+
 ### Task 01.05 - Seeing Faces
 
 As an exercise to see and understand the environment around you (and to have some fun 😊), try to find at least two faces. Link all images in this file.
+
 
 ![faces](img/face_01.jpg)
 ![faces](img/face_02.jpg)
 ![faces](img/face_03.jpg)
 ![faces](img/face_04.jpg)
+
+
+
+
+
 
 ![faces_around_us](img/faces.png)
 
@@ -161,6 +189,9 @@ We started a collection of tutorials and resources for you in the [Unreal script
 ### Task 01.08
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
+
+* It was a good introduction to the whole topic with interesant practical assignments
+* Finding faces was actually not that easy, it took long time :D
 
 
 

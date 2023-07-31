@@ -44,6 +44,15 @@ This assignment should take <= 1h. If you need longer, please comment on that in
 
 Brainstorm ideas for your final project.
 
+* Well, I would try to learn how to use Fluid Explosions and I would combine them with my existing Particle system
+* I would like to have a Player Controlable Particle system which can move around the map and trigger explosions along the way, as well as it reacts to audio sources which are hidden in the map.
+
+* I would approach this by first building up Explosion systems 
+* I would then insert Explosions around the map as trigger-ready components
+* I would add control to the particle system and make event triggers
+
+* It would be awesome of I could proceduraly generate these explosions on the map based on the course experience.
+
 *Submission:* Describe your ideas in your `pgs_ss23_08_lastname.md` file. Bullet points are enough.
 
 
@@ -127,12 +136,26 @@ Does it makes sense for you
 
 * ...to have procedural generation in your set of skills? If yes, 
     * with which tool do you want to work with?
-    * which outputs / designs / setups are you aiming for?
-* ...to have Unreal in your set of skills? If yes, 
-    * which Unreal topic so you want to look into next?
+
+Unreal Engine as a new tools and Touchdesigner as a known one.
+
     * which outputs / designs / setups are you aiming for?
 
+I am interested in audioreactive generative design and in implementation in the field of VJing and realtime visual setups.
+
+* ...to have Unreal in your set of skills? If yes, 
+    * which Unreal topic so you want to look into next?
+
+I got interested in Fluids actually and I definetly want to experiment with Niagara in general.
+
+    * which outputs / designs / setups are you aiming for?
+
+I think that interactive simulations seem as a good starting point.
+
 Describe your next steps within the lecture topics depending on your answers.
+
+
+I will continue to experiment in Unreal Engine for sure and I will also try to get better in math, since this lecture enabled me to realize that it is ignorance in math disables me to be a better programmer.
 
 *Submission:* Text in your `pgs_ss23_08_lastname.md` file.
 
