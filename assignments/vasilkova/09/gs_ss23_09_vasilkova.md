@@ -26,7 +26,11 @@
 
   Of course there are a lot of "imperfections", but overall I think it is a good result for the beginning.
 
-  
+  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00000.png?raw=true
+  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00001.png?raw=true
+  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00002.png?raw=true
+  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00003.png?raw=true
+  https://github.com/ctechfilmuniversity/lecture_ss23_procedural_generation_and_simulation/blob/main/assignments/vasilkova/09/ScreenShot00004.png?raw=true
 
   
 
