@@ -27,7 +27,6 @@ This assignment should take <= 4h. If you need longer, please comment on that in
     * [Learnings](#learnings)
         * [Task 07.04](#task-0704)
 
-
 ---
 
 ## Particles
@@ -53,6 +52,4 @@ I tried [this tutorial](https://www.youtube.com/watch?v=N3Bwa_urhG8), because I 
 
 <img src="img/circular-ice-path.gif" width=600>
 
----
-
-**Happy Simulating!**
+--- 
