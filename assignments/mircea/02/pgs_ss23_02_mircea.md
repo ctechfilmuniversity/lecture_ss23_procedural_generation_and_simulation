@@ -143,7 +143,13 @@ Result:
 
 ### Task 02.03
 
+- The exploration of the inherent beauty in mathematics was a good experience, it cultivated a profound appreciation for the natural and aesthetic elements around us. I tried watching extra Youtube videos to get a better grip but despite not understanding all the underlying mathematical principles, this script gave me a new perspective on observing and appreciating the world.
 
+- The concept creation proved to be a more demanding task than I expected. Attempting to encapsulate the essence of this mathematical beauty, while steering clear of clichéd visuals, was for some surprising reason pretty challenging for me. However, once the idea materialized, it resonated deeply with me. The process of exploration and refinement throughout the journey was rewarding, and the concept eventually left a significant impact. (Also I used Midjourney again after a long while and it was cool to create a reference picture)
+
+- Though the Procedural Content Generation (PCG) tutorial was exhausting because of the computer difficulties, the outcome I think is exciting and inspiring and I can see the potential of this tool becoming a part of my toolbox, promising exciting prospects for future projects.
+
+- I love Unreal, I wish it would work better on my computer.
 ---
   
 Answer all questions directly in a copy of this file and **also link and display all of your images in that file**. Submit your copy as `pgs_ss23_XX_lastname.md` in your assignments folder (replace the XX with the number of the session). 
