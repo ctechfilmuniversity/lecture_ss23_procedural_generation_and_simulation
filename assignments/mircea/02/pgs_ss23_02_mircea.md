@@ -71,38 +71,38 @@ _*reference image created with Midjourney*
 
 - Artworks that explore the interplay between nature and technology, creating captivating and immersive experiences.
 
-**Artistic inspirations**:</br>
+##### **Artistic inspirations**:</br>
 https://www.random-international.com/rain-room-2012 -  In this installation, a field of falling water that pauses wherever a human body is detected. The careful tracking of movement and interaction with elements can be an inspiration for this project.
 
 https://www.nand.io/case-studies/botanicus-interacticus - This interactive plant technology turns any houseplant into a responsive, interactive object. Touching or moving the plant generates a real-time graphics and sound response, which could be an interesting technology to explore for the interaction part of this project.
 
 https://rss.onlinelibrary.wiley.com/doi/full/10.1111/j.1740-9713.2013.00683.x - This project visualizes the invisible terrain of WiFi networks in urban spaces through light painting. Although it does not deal with nature per se, the methodology of visualizing something usually unseen (like exponential growth) could be applied to this project.
 
-####**Specific Concept**:
+#### **Specific Concept**:
 
 "The Exponential Garden" as a large-scale projection mapping installation includes the following elements:
 
-#####**Projection Mapping on walls and various natural structures:**
+##### **Projection Mapping on walls and various natural structures:**
 
 Transforming the surfaces of physical structures, such as walls, trees, and sculptures, into dynamic canvases for projection mapping, utilizing the unique shapes and textures of these structures to enhance the visual storytelling and create an immersive garden environment.
 
-#####**Exponential Growth Visuals:**
+##### **Exponential Growth Visuals:**
 
 The visual representations of exponential growth should evoke the intricate patterns found in nature, such as fractals, spirals, and branching structures and have them animated to simulate the growth process, with plants and flowers blooming, spreading their branches, and evolving over time.
 
-#####**Interactive Exploration:**
+##### **Interactive Exploration:**
 
 Allowing participants to actively engage with the installation by using motion-tracking technology or interactive touch surfaces and enable participants to control and influence the growth patterns through their gestures or touch interactions, triggering visual transformations and animations. 
 
 Since we are talking of a large scale installation, participants would be encouraged to explore different areas of the garden, discovering hidden elements and unlocking new growth patterns as they interact.
 
-#####**Spatial Audio and Ambient Soundscapes:**
+##### **Spatial Audio and Ambient Soundscapes:**
 
 Integrate a spatial audio system that immerses participants in an harmonious soundscape, evoking the ambiance of a vibrant garden: Incorporate soothing ambient sounds, gentle melodies, and natural environmental sounds to enhance the immersive atmosphere.
 
-####Execution and Implementation Details:
+#### **Execution and Implementation Details:**
 
-#####**Projection Mapping Technology:**
+##### **Projection Mapping Technology:**
 
 Utilize high-resolution projectors and projection mapping techniques to accurately map visuals onto the physical surfaces while synchronizing and controlling the projection mapping across multiple surfaces in real-time.
 
@@ -110,19 +110,19 @@ Resolum, Madmapper
 
 4K Splitter for an easier control of the projectors
 
-#####**Interactive Systems:**
+##### **Interactive Systems:**
 
 Incorporate motion-tracking sensors or interactive touch surfaces to capture participants' gestures and interactions and using interactive frameworks to interpret participants' inputs and trigger corresponding visual transformations and animations.
 
 MAX/MSP, vvvv?
 
-#####**Sound Design and Integration:**
+##### **Sound Design and Integration:**
 
 Working with an immersive soundscape in a spatial audio system.
 
 Ableton live / MAX/MSP
 
-####**Venue and Setup:**
+#### **Venue and Setup:**
 
 Selecting a suitable venue, such as a large indoor space or an outdoor garden, to accommodate the projection mapping installation + arranging physical structures strategically throughout the space to provide diverse projection surfaces and create an immersive environment.
 
