@@ -36,8 +36,8 @@ At some point, I considered using Unity and downloaded it for a day. However, I 
 Ta-da
 
 Please visit the following link for the video: <br/><br/>
-[video 1](https://drive.google.com/file/d/1YyZnl5Rt3SYsy1Zi4H2uxwCEQ-Zr2NPj/view?usp=sharing) <br/><br/>
-[video 2](https://drive.google.com/file/d/1YT5DrZP9H4KJxilXl5M28WViFeCfjCKH/view?usp=sharing) <br/><br/>
+[video 1](https://drive.google.com/file/d/1YyZnl5Rt3SYsy1Zi4H2uxwCEQ-Zr2NPj/view?usp=sharing) ,  <br><br>
+[video 2](https://drive.google.com/file/d/1YT5DrZP9H4KJxilXl5M28WViFeCfjCKH/view?usp=sharing) , <br><br>
 [video 3](https://drive.google.com/file/d/1MuxtIT4AsZo4VMr3j3PA3yWibwzAkkO-/view?usp=sharing)
 
 
