@@ -73,31 +73,31 @@ Brainstorm ideas for your final project.
   
 * What do you think about Unreal as a tool for this class? I am fully aware that the Unreal exercises do not yet fully connect to the theoretical topics, try to answer this question also in regard to whether you could imagine that Unreal exercises could potentially fit well to the theory.
 
-   I really, really, loved it. I feel the power for real-time is immense, also in exploring and getting deeper into the theory. It's much nicer when I can change parameters and I can instantly get what's happening. I really really loved it. PLUS the fact that is free, so it's actually something that can be used in its full capacities makes it even better.
+I really, really, loved it. I feel the power for real-time is immense, also in exploring and getting deeper into the theory. It's much nicer when I can change parameters and I can instantly get what's happening. I really really loved it. PLUS the fact that is free, so it's actually something that can be used in its full capacities makes it even better.
   
 * Do you have any other ideas reading which tools and software packages to use for this class?
 
-  To be honest, I really feel this time around it was perfect. As a personal wish I'd like to get into vvvv or touchdesigner too, but that would absolutely break the class. Maybe as a follow-up workshop? Also, maybe I'd like to see something related to audio. I found this tutorial: https://www.youtube.com/watch?v=QSCVM_xQDOg and it's interesting. Further things I don't know enought to be able to have ideas. 
+To be honest, I really feel this time around it was perfect. As a personal wish I'd like to get into vvvv or touchdesigner too, but that would absolutely break the class. Maybe as a follow-up workshop? Also, maybe I'd like to see something related to audio. I found this tutorial: https://www.youtube.com/watch?v=QSCVM_xQDOg and it's interesting. Further things I don't know enought to be able to have ideas. 
   
 * Do you have any useful hints to pass on to future students, e.g. utility tools, further resources?
 
-  Although it might take a bit of time, it's definitely worth getting around the script before passing to the tutorials. Lots of the theory from the scripts is cleverly incorporated into the hands-on part, even if it doesn't scream right out at you. One of the main downsides with online tutorials is they often skip over detailed explanations and that's where the scripts really help make sense of it all.
+Although it might take a bit of time, it's definitely worth getting around the script before passing to the tutorials. Lots of the theory from the scripts is cleverly incorporated into the hands-on part, even if it doesn't scream right out at you. One of the main downsides with online tutorials is they often skip over detailed explanations and that's where the scripts really help make sense of it all.
 
 * What is your opinion regarding practical exercises in class? Do you think it would be helpful to substitute some of the theory parts with doing e.g. an Unreal exercise in class (there can be no additional time for the class though, it is "either...or")?
 
- To be honest, I like the tranquility of exploring the exercises on my own. It gives a bit of flexibility for the learning process. Also, because our experience is also not equal, it's more relaxing to do things in my own pace, not feeling "bad" for being slower, for example, because some colleagues are more experienced and can do it faster.
+To be honest, I like the tranquility of exploring the exercises on my own. It gives a bit of flexibility for the learning process. Also, because our experience is also not equal, it's more relaxing to do things in my own pace, not feeling "bad" for being slower, for example, because some colleagues are more experienced and can do it faster.
      
 * Which one was your favorite chapter, which one your least favorite?
 
- I liked Fluids & Noise a lot; I didn't like GLSL this time around as it was like a nut in the wall. 
+I liked Fluids & Noise a lot; I didn't like GLSL this time around as it was like a nut in the wall. 
   
 * Was there a topic missing and if so which one?
 
- No, I think it was the PERFECT balance of topics. 
+No, I think it was the PERFECT balance of topics. 
 
 * Please feel free to add any feedback you want to give!
 
- Great job, both classes and exercises. 
+Great job, both classes and exercises. 
 
 *Submission:* Text in your `pgs_ss23_08_lastname.md` file.
 
