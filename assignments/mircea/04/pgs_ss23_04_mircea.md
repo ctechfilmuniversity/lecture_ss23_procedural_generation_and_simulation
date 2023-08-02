@@ -74,6 +74,23 @@ Good tutorials are also:
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
 
+- I really liked the script. Most likely going to be one of my favourites.
+- I remember from my comparative literature studies about the Islamic belief of the divine as an underlying order of the universe, which is reflected in the complexity and intricacy of these designs. I really liked remembering how they demonstrate the infinite nature of God's creation, with no definite beginning or end visible in the pattern itself. Also, I love the idea of a spiritual dimension to common elements of the visual world - and that's very cool!
+
+- I found super interesing how techniques like the Penrose tiling, inspired by mathematical models and crystallography and have their expressions come from diverse areas (tilework of ancient Islamic architecture to the graphics of modern digital art).
+
+- I loved the Sacred Geometry part: I think I am also in general interesting in meaning, not necessarily religious but I like the idea that it reflects, that the universe was designed through divine mathematics and geometry. The synchronicity of the universe is thought to be determined by mathematical constants, which express themselves as patterns and cycles in nature. Magic :D
+  
+- What before I didn't remember, The Pentagram of Venus: is cool.
+  
+- The Seed of Life: This is a universal geometric symbol for creation. It's very cool to see these things.
+  -> BONUS: understanding tattoos better :D
+
+Also, I really feel lately that I am much more into patterns and repetitive designs and it does have a calming medidative feeling for me which I didn't manage to reach when I was younger and hyperactive. 
+
+
+UNITY: - a fundamental understanding of materials and custom shading. It was interesting process. UNREAL IS VERY COOL.
+
 *Submission:* Text in your `pgs_ss23_04_lastname.md` file.
 
 ---
