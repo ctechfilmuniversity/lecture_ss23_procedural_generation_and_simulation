@@ -108,6 +108,12 @@ See [Session 04](../04_tilings/README.md#unreal)
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
 
+- The session was super helpful in getting a grip on how shaders do their thing and what's going on with all those functions happening "backstage". HOWEVER, trying to make cool designs without being a math genious - tough! Looking at code feels like trying to solve a super tricky puzzle and writing the code myself, I can't imagine, it's like staring at a blank canvas - where do you even start? 
+
+- However, I found it easier to start with an existing piece of code, add a bit of my own "magic" to it, and even if the result might not be a work of art, it's cool to see it happen.
+- I hope I can dedicate more time for getting a grip over GLSL in the future. 
+
+
 *Submission:* Text in your `pgs_ss23_03_lastname.md` file.
 
 ---
