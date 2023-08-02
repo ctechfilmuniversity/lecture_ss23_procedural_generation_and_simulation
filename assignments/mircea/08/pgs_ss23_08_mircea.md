@@ -57,39 +57,40 @@ Brainstorm ideas for your final project.
 
 * How would you rate the difficulty of this lecture from 1 (far too easy) to 5 (far too difficult)?
 
-  - 2/3 - The hands-on portion of the course is ideal for a beginner like me, and tasks aren't overly demanding + the gradual progression from one topic to another helps me get into a flow and understand various aspects of the Unreal Engine. The theory part can get a bit tough with all the maths and formulas, but that's the point also, to challange ourselves.
+ 2/3 - The hands-on portion of the course is ideal for a beginner like me, and tasks aren't overly demanding + the gradual progression from one topic to another helps me get into a flow and understand various aspects of the Unreal Engine. The theory part can get a bit tough with all the maths and formulas, but that's the point also, to challange ourselves.
   
 * How would you rate the amount of work you had to put into this lecture so far from 1 (no work at all) to 5 (far too much work)?
 
-  - 3
+ 3/4
   
 * How well did the given time estimates for each session match the time you needed to complete the session?
 
-  - I think the estimation was just about right for the exercises. HOWEVER, to really understand the script it takes longer. Everytime I spent few hours extra watching videos and other types of explanations to digest and make the information settle and connect.
+ I think the estimation was just about right for the exercises. HOWEVER, to really understand the script it takes longer. Everytime I spent few hours extra watching videos and other types of explanations to digest and make the information settle and connect.
   
 * What do you think about Unreal as tool to learn for a CTecht student? Is it valuable?
-  - YES, it's extremely valuable. I feel it's THE TOOL for us.
+ YES, it's extremely valuable. I feel it's THE TOOL for us.
   
 * What do you think about Unreal as a tool for this class? I am fully aware that the Unreal exercises do not yet fully connect to the theoretical topics, try to answer this question also in regard to whether you could imagine that Unreal exercises could potentially fit well to the theory.
-  - I really, really, loved it. I feel the power for real-time is immense, also in exploring and getting deeper into the theory. It's much nicer when I can change parameters and I can instantly get what's happening. I really really loved it. PLUS the fact that is free, so it's actually something that can be used in its full capacities makes it even better.
+  I really, really, loved it. I feel the power for real-time is immense, also in exploring and getting deeper into the theory. It's much nicer when I can change parameters and I can instantly get what's happening. I really really loved it. PLUS the fact that is free, so it's actually something that can be used in its full capacities makes it even better.
   
 * Do you have any other ideas reading which tools and software packages to use for this class?
-  - 
+  To be honest, I really feel this time around it was perfect. As a personal wish I'd like to get into vvvv or touchdesigner too, but that would absolutely break the class. Maybe as a follow-up workshop? Also, maybe I'd like to see something related to audio. I found this tutorial: https://www.youtube.com/watch?v=QSCVM_xQDOg and it's interesting. Further things I don't know enought to be able to have ideas. 
   
 * Do you have any useful hints to pass on to future students, e.g. utility tools, further resources?
-  - Although it might take a bit of time, it's definitely worth getting around the script before passing to the tutorials. Lots of the theory from the scripts is cleverly incorporated into the hands-on part, even if it doesn't scream right out at you. One of the main downsides with online tutorials is they often skip over detailed explanations and that's where the scripts really help make sense of it all.
+  Although it might take a bit of time, it's definitely worth getting around the script before passing to the tutorials. Lots of the theory from the scripts is cleverly incorporated into the hands-on part, even if it doesn't scream right out at you. One of the main downsides with online tutorials is they often skip over detailed explanations and that's where the scripts really help make sense of it all.
 
 * What is your opinion regarding practical exercises in class? Do you think it would be helpful to substitute some of the theory parts with doing e.g. an Unreal exercise in class (there can be no additional time for the class though, it is "either...or")?
- - To be honest, I like the tranquility of exploring the exercises on my own. It gives a bit of flexibility for the learning process. Also, because our experience is also not equal, it's more relaxing to do things in my own pace, not feeling "bad" for being slower, for example, because some colleagues are more experienced and can do it faster.
+
+ To be honest, I like the tranquility of exploring the exercises on my own. It gives a bit of flexibility for the learning process. Also, because our experience is also not equal, it's more relaxing to do things in my own pace, not feeling "bad" for being slower, for example, because some colleagues are more experienced and can do it faster.
      
 * Which one was your favorite chapter, which one your least favorite?
- - 
+ I liked Fluids & Noise a lot; I didn't like GLSL this time around as it was like a nut in the wall. 
   
 * Was there a topic missing and if so which one?
- - 
+ No, I think it was the PERFECT balance of topics. 
 
 * Please feel free to add any feedback you want to give!
- - 
+  Great job, both classes and exercises. 
 
 *Submission:* Text in your `pgs_ss23_08_lastname.md` file.
 
@@ -102,14 +103,32 @@ In order to make the best possible use of the lecture, please reflect on the fol
 
 Does it makes sense for you
 
-* ...to have procedural generation in your set of skills? If yes, 
+* ...to have procedural generation in your set of skills? YES!!!!
+
+If yes, 
     * with which tool do you want to work with?
-    * which outputs / designs / setups are you aiming for?
-* ...to have Unreal in your set of skills? If yes, 
-    * which Unreal topic so you want to look into next?
+
+Firstly, I'll stick with Unreal, is especially powerful for real-time applications, making it a great fit for my interests in world building and interactive installations.
+Then, I'd love to dive into Blender!
+Also, I'd love to get a dive into Touchdesigner too, for now that's one program I have no idea about.
+      
     * which outputs / designs / setups are you aiming for?
 
-Describe your next steps within the lecture topics depending on your answers.
+1. World Building- procedural generation to create vast, complex, and dynamic virtual environments
+2. Complex Patterns- procedural techniques for patterns and shapes, whether for use in virtual worlds, visuals for music, or standalone artworks
+3. maybe Data Representation? 
+      
+* ...to have Unreal in your set of skills? YES!!!!!!!
+
+If yes, 
+    * which Unreal topic so you want to look into next?
+Firstly, I'd like to "just" explore more. Maybe on a topic, create some visuals.
+Then: get a grip on Blueprints, expand on Niagara Visual Effects System and check the Virtual Reality Development!
+
+    * which outputs / designs / setups are you aiming for?
+1. Surreal, Immersive Environments- worlds that invite exploration and interaction from the user
+2. Audio-Responsive Elements- incorporating audio reactivity
+3. Interactive Installations- setups where viewers can interact with the virtual environment in a physical space, possibly using motion tracking or other hardware, could be a fascinating direction to explore.
 
 *Submission:* Text in your `pgs_ss23_08_lastname.md` file.
 
