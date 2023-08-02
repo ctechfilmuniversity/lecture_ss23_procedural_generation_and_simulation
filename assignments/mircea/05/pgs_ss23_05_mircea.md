@@ -78,6 +78,19 @@ Result:
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
 
+- Digging through old pics on my phone for the noise exercise was actually pretty fun, especially since I was stuck at home sick. It was like seeing my favorite photos with new eyes, noticing all the noise. Now I'm seeing noise everywhere I look.
+  
+- Searching for artworks that use noise was a tougher challenge. A lot of digital ones just didn't do it for me. They seemed to be more about showing something that 'works' rather than something truly impressive or inspiring.
+
+- The written tutorials are very hard for me. It took ages and I couldn't help feeling there had to be a quicker, easier way.
+
+- The Niagara stuff seems cool but was a bit over my head. I need to spend more time getting familiar with it and learning about how it all works.
+
+- Not sure why some stuff looks very different after rendering and it's sad.
+
+- I feel this script was a solid grasp on what procedural noise function means and what it needs to work. Compared to last year, I feel now I can understand the different types of noise - next step is to really learn how to actually use it. :D
+
+
 *Submission:* Text in your `pgs_ss23_05_lastname.md` file.
 
 
