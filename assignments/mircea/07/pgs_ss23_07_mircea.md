@@ -67,10 +67,13 @@ Alternatively, you do not have to follow a tutorial but you can come up with you
 This will be your last Unreal task before the final project! Make it special 😁.
 
 [Let's build this Unreal Niagara audio visualizer within 10 minutes](https://www.youtube.com/watch?v=UETAS5g-q4M) - I tried this. 
-![](img/n1.png)
-![](img/n2.png)
+![](img/n1.PNG)
+![](img/n2.PNG)
 
 Even if I tried a lot debugging (there are a lot of people having issues with it, it's visible in the comments), it still didn't work fully. However, it got me to explore further and I really think it's an interesting result:
+![](img/n3.png)
+![](img/n4.png)
+![](img/n5.png)
 
 
 
