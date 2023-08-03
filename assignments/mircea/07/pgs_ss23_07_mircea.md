@@ -52,6 +52,8 @@ It was my first time looking at this and I enjoyed experimenting with Niagara:
 And this might be a far-away starting point of my final project :)
 ![](img/3.png)
 ![](img/4.png)
+![](img/5.png)
+
 
 *Submission:* A link to the tutorial you completed and at least one preview image (this does not need to be a designed scene, nor a polished image), linked in your `pgs_ss23_07_lastname.md` file.
 
@@ -78,4 +80,3 @@ Please summarize your personal learnings (text or bullet points - whatever you p
 ---
 
 **Happy Simulating!**
-![](img/5.png)
