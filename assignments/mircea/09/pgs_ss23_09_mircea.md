@@ -64,12 +64,15 @@ Then, I explored A LOT Niagara:
 ![](img/error.PNG)
 
 I call it the Pillow Bees *maybe a bit radioactive too because of the laser trials) and I am very proud of the way I used the camera in this scene even if I unfortunately didn't get to use it:
-WATCH HERE: ![the pillow bees](https://youtu.be/2ny54ndGSdY)
+
+please WATCH HERE as I really love it: [the pillow bees](https://youtu.be/2ny54ndGSdY) 
+
 ![](img/pillow_bees_01.PNG)
 ![](img/pillow_bees_02.PNG)
 
 
 Summarizing Niagara experience - I explored a lot the rendereres and forces. I really love it even if sometimes I don't understand everything I am doing. 
+
 Tutorials I used:
 https://www.youtube.com/watch?v=pzIORuULNfo
 https://www.youtube.com/watch?v=hcGDnIqXlXw
@@ -109,17 +112,21 @@ HOWEVER, the renderings looked so bad and random. And after a crash where nothin
 ### Storyline development:
 At the beginning I wanted to create like an audioreactive music scene but I failed miserably as I could not finish any tutorial I tried ( 3 different ones) due to random reasons. 
 So then I just started to play along and I started to really like the visuals of the scenes. The way the trees get in front of the pillows reminded me of Animal Planet or National Geographic sneaky footage that tries to capture wildlife.
-That is why I decided then to create this narrative of a flock of pillows followed in their actions.
-The voiceover had to be an AI as my accent is not empowering the immersion feeling and after I found a voice I liked, I sketched the text based on the structure I had created and then asked ChatGPT to help me blend "technical digital poetics" with it.
+That is why I decided then to create this narrative of a flock of pillows followed in their actions: seeing them on the bringht sky, them spreading everywhere, taking over nature, a surreal alien-like experience, and a peaceful ending.
+The voiceover had to be an AI as my accent is not empowering the immersion feeling and after I found a voice I liked, I sketched the text based on the structure I had created and then asked ChatGPT to help me blend "technical digital poetics" with it so that it fits the PGS class vibe: algorithmic fluff.
 
 The result of the script is here:
-
+[](/pillowland_voiceover_script.md)
 
 ### Audio development:
 
+I used the Arcade Plugin in Ableton Live 10 which I never have the chance to use even if I pay the subscription :)) because it's with samples and not too free for actual musical projects. However, as this project didn't have a sound-focus, I could create a simple soundscape with this plugin.
+Also - I love using Ableton with video! I had no idea that is possible lol. 
+As a goal, I just wanted to recreate the vibe of the wild-life documentaries, chill music and the voice on top.
+
+![](img/sound.PNG)
 
 
-![](img/1-min.png)
 ![](img/4-min.png)
 ![](img/6-min.png)
 ![](img/9-min.png)
@@ -147,7 +154,7 @@ The result of the script is here:
 ## Results
 
 The final result is a short film that can be seen here:
-![SHORT FILM: A digital day in the incredible life of the Pillows](https://youtu.be/OrHru5TTsBY)
+[SHORT FILM: A digital day in the incredible life of the Pillows](https://youtu.be/OrHru5TTsBY)
 
 The film has 5 scenes and here are details from the scenes and a print screen from the 2x print screens from the movie:
 
@@ -182,6 +189,31 @@ detail from the world:
 ## Project Reflection & Discussion
 I REALLY LOVED WORKING AT THIS PROJECT. And got super invested in it. I think I REALLY, REALLY like Unreal.
 
+One of the first things I did was follow the 60-minute short film tutorial. While it didn't have a direct connection with the class, it was crucial in giving me a comfort level in producing something within the Unreal environment.
+Before this, my exposure to Unreal Engine was limited to the short, specific exercises from each session. These were helpful, but they didn't offer a holistic understanding of how to manage a complete project. The tutorial film filled that gap, providing a workflow perspective that tied all the individual elements together.
+From there, I was able to launch into the specific focus of my project – a surreal, playful world of pillows. The comfort and familiarity I'd gained from the tutorial allowed me to dive more confident into the software's capabilities, like the Niagara system, PC foliage, and PCG plugin. It was a foundational step that set the stage for everything that came after.
+
+Initially, I planned an audio-reactive pillow world. As challenges came up, I had to quit that quickly and went for world of flying pillows which surprisingly worked well. My original idea morphed into a funny (at least for me) short film & while different from my first vision, I am proud of what I created. It served as a reminder that creativity isn't linear and can lead to unexpected places. :)
+
+Future Applications: I really want to continue something related to this. I was thinking doing some little surreal videos for social media or something that would motivate me to continue to explore Unreal. 
+
+Improvements for Future Projects: I realized the importance of flexibility in creative projects. A better understanding of Unreal Engine's capabilities from the start could've helped. However, these are valuable lessons for future projects.
+I experienced some ups and downs, including losing work due to computer issues and using the university computer at Filmuni was not the most flexible. However, I really enjoyed the time spent in the 6119 room with my pillows. Actually, on the big bean-bags :D That is why, instead of dwelling on the loss, I rebuilt the scenes and pushed my creativity further. This mindset led to exploring the loss of the bees into creating the fluff monster scene. 
+Also, the aspect of community was really cool while working with Unreal. I connected with various groups on Facebook and found that they offered a supportive and engaging space to discuss ideas and challenges. Although the help I received on the audio-reactive issue was pretty basic, I think it's valueble to know that there is a community ready to support and share knowledge.
 
 ## Lessons Learned
+
+#### Technical:
+- Unreal Engine: I got to dive deeper into the Unreal Engine environment and its real-time rendering capabilities, flexible camera control. I really love it.
+- Niagara Visual Effects System: I extensively used the Niagara system in Unreal Engine for creating the flock of pillows, their flight paths, and the magical merging scene with blue laser light trails. This advanced VFX system allowed me to create visually complex, interactive, and high-performing scenes.
+- PCG Foliage: I utilized the PC Foliage to create fields full of white pillows. It allowed me to scatter hundreds of pillows across the scene, creating a surreal landscape of soft fluffiness. Understanding how to manipulate and optimize foliage systems is so cool for creating somewhat believable environments
+- PCG Plugin: For the colorful final scene, I used the PCG plugin to show diverse colored pillows across the hill. However, I need to understand it better when it comes to meshes.
+- Camera Work: This project offered me the chance to experiment and understand the depth of camera movements, tracking, and framing within Unreal Engine. I used dynamic camera movements to provide a lifelike and immersive viewing experience, making the pillows feel alive and full of personality. For me this was an amazing learning experience and personal progress. I can compare it with last year, when I did a simple camera movement in Blender and it took me a day to understand how it's made because of my lack of experience with 3D softwares.
+- Troubleshooting and Optimization: As with any project, there were challenges. From unsuccessfully trying to implement water materials and audio reactivity to managing the performance and visual quality of scenes, I had to troubleshoot various issues. Also, some I just had to let go. 
+- Sound Design and Mixing: I neved did something like this! Even though the original idea of audio-reactivity didn't pan out, I still got to work with Ableton Live and Arcade Plugin for soundtrack creation and mixing. This contributed to the overall atmosphere and feel of the mockumentary, elevating the visual experience. And the AI voice - I never tried it before :)
+
+#### Personal:
+- I love stories and I definetely learn better if I create a scenario in my head, else I tend to get overwhelmed and have lack of direction.
+- I am very happy with the result. I know it's not a very complex project but for me is a big accomplishment.
+- I loved this course and I love Unreal. Thank you for this class and these exercises. 
 
