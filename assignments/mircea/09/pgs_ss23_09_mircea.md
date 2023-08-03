@@ -17,13 +17,18 @@ The first thing I did (and I think it was a great decision!) was to follow this 
 It was extremely useful because after this tutorial I was able to move around Unreal better and also use the Camera in various ways in order to achieve more interesting results.
 
 Then, I actually started with the last scene - with the PCG plugin, pillows everywhere, 3 actors and multiplied around the landscape. 
+I watched this again:
+- [UE5.2 Procedural Generation Plugin - Ep1 - Introduction](https://www.youtube.com/watch?v=hjk9308SCeE&t=61s)
+
 ![](img/04-min.png)
 ![](img/02-min.png)
 
 I really liked the look but I couldn't fix the meshes from colliding weirdly to each other even if I tried several tutorials on the topic. 
 
 That's where google-ing took me to the Procedural Foliage Tool from Unreal, which is was very interesting to explore. With this I created an environment that has several trees and pillows from different sizes, some tree barks "dressed" in pillow cloth on a landscape. 
+[Procedural Foliage in Unity](https://www.youtube.com/watch?v=y_z4OLo-cls) - watched this but I also looked at several Levels from my asset packs, in order to understand how they are created with this tool. 
 It was a very nice flow, but, I don't feel you can have too much control on the way things are displayed. However, for my landscape and pillow world, was good enough, as I could play with density and sizes:
+
 
 some small pillows around trees:
 ![](img/8-min.png)
@@ -74,10 +79,11 @@ please WATCH HERE as I really love it: [the pillow bees](https://youtu.be/2ny54n
 Summarizing Niagara experience - I explored a lot the rendereres and forces. I really love it even if sometimes I don't understand everything I am doing. 
 
 Tutorials I used:
-https://www.youtube.com/watch?v=pzIORuULNfo
-https://www.youtube.com/watch?v=hcGDnIqXlXw
-https://www.youtube.com/watch?v=qmZCW7eQ6rc&list=PLNTm9yU0zou6u9sbmY1xyVMx-g2vj_SUG&index=3 - until a point
-and some other fragments.
+
+- [Unreal Engine 5 Niagara Particles: A Beginner Tutorial for Motion Designers](https://www.youtube.com/watch?v=pzIORuULNfo)
+- [Learn This UNREAL 5 NIAGARA Particle Sim! UPDATED](https://www.youtube.com/watch?v=hcGDnIqXlXw)
+- [Unreal Engine Rain Particle with Splashes using Niagara FX System 🌧](https://www.youtube.com/watch?v=qmZCW7eQ6rc&list=PLNTm9yU0zou6u9sbmY1xyVMx-g2vj_SUG&index=3) - until a point
+and some other pieces of other tutorials. But I can say that I also explored childishly the possibilities, playing around parameters trying to understand them.
 
 Last but not least to mention is the camera!!!!!!! Through the first tutorial I mentioned, I learned how to track specific actors and how to animate the camera movements in order to create a story. I am very happy for this:
 maybe not the most representative screenshot but I am so happy I finally understood keypoints. I know it's basic but i never understood how they work. 
@@ -103,7 +109,6 @@ I tried using water / reflective materials and "fluffify" the trees as well and 
 ![](img/img_23.png)
 ![](img/HighresScreenshot00000-min.png)
 
-
 HOWEVER, the renderings looked so bad and random. And after a crash where nothing was saved, I went back to the initial look - which I actually discovered I loved! It's making much more sense, the surreal atmosphere:
 ![](img/img_32.png)
 ![](img/img_33.png)
@@ -113,6 +118,7 @@ HOWEVER, the renderings looked so bad and random. And after a crash where nothin
 ![](img/img_38.png)
 ![](img/img_39.png)
 
++ I tried working with volumetric clouds but i didn't catch that too well, so it's on the list for next time. 
 
 ### Storyline development:
 At the beginning I wanted to create like an audioreactive music scene but I failed miserably as I could not finish any tutorial I tried ( 3 different ones) due to random reasons. 
@@ -130,7 +136,6 @@ Also - I love using Ableton with video! I had no idea that is possible lol.
 As a goal, I just wanted to recreate the vibe of the wild-life documentaries, chill music and the voice on top.
 
 ![](img/sound.PNG)
-
 
 
 ## Results
