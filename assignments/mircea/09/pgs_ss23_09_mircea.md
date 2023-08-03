@@ -5,7 +5,7 @@ This project came to life as a continuation of Exercise 7, which revealed to me 
 The playful and humorous concept of a pillow mockumentary was purposefully chosen to prevent the project from becoming overwhelming given the vast possibilities of Unreal Engine (and my working style). This project allowed me a creative exploration of Unreal Engine's capabilities in a manageable way, while also gratifying me with a “start to finish” holistic workflow. 
 
 ## Concept
-"The secret life of the Pillows" is a visual exploration of an universe where ordinary pillows come alive and take flight, dancing in the sky creating surreal settings. This short film is a journey that aims merging the familiar and the extraordinary through playfulness.
+"The secret life of the Pillows" is a visual exploration of an universe where ordinary pillows come alive and take flight, dancing in the sky creating surreal settings. This short film is a journey that aims merging the familiar and the extraordinary through playfulness, exploring the digital sweet absurd environment.
 
 ## Implementation
 
