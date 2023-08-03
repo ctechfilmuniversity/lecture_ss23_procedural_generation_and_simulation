@@ -72,7 +72,7 @@ Then, I explored A LOT Niagara:
 
 I call it the Pillow Bees *maybe a bit radioactive too because of the laser trials) and I am very proud of the way I used the camera and animation in this scene even if I unfortunately didn't get to use it:
 
-please WATCH HERE as I really love it: [the pillow bees](https://youtu.be/2ny54ndGSdY) 
+WATCH HERE (I really love it): [the pillow bees](https://youtu.be/2ny54ndGSdY) 
 
 ![](img/pillow_bees_01.PNG)
 ![](img/pillow_bees_02.PNG)
