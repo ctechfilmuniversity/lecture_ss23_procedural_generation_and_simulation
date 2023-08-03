@@ -62,6 +62,11 @@ Please summarize your personal learnings (text or bullet points - whatever you p
 
 *Submission:* Text in your `pgs_ss23_06_lastname.md` file.
 
+- One of the first times I've ever done node-based stuff, especially so complex
+- Struggled a lot due to the written tutorial format, it makes me very anxious and overwhelemd
+- However, I can say the explanations were great!!!
+- I really enjoyed seeing the final result, was somewhat magical.
+- I definetely learned a lot and feel much more comfortable now with the idea of trying out other things in blueprints.  
 ---
 
 **Happy Forcing!**
