@@ -51,10 +51,19 @@ I watched the 60 min short film
 ![](img/HighresScreenshot00086.png)
 ![](img/HighresScreenshot00090.png)
 ![](img/HighresScreenshot00093.png)
-![](img/HighresScreenshot00060 (3).png)
-![](img/HighresScreenshot00060 (8).png)
-![](img/HighresScreenshot00060 (9).png)
-![](img/HighresScreenshot00060 (5).png)
+![](img/img_10.png)
+![](img/img_11.png)
+![](img/img_12.png)
+![](img/img_13.png)
+![](img/img_14.png)
+![](img/img_15.png)
+![](img/img_16.png)
+![](img/img_17.png)
+![](img/img_18.png)
+![](img/img_19.png)
+![](img/img_20.png)
+![](img/img_22.png)
+![](img/img_23.png)
 
 
 
