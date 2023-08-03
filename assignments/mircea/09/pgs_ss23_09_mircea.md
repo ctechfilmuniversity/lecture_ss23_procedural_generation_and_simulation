@@ -79,6 +79,10 @@ https://www.youtube.com/watch?v=hcGDnIqXlXw
 https://www.youtube.com/watch?v=qmZCW7eQ6rc&list=PLNTm9yU0zou6u9sbmY1xyVMx-g2vj_SUG&index=3 - until a point
 and some other fragments.
 
+Last but not least to mention is the camera!!!!!!! Through the first tutorial I mentioned, I learned how to track specific actors and how to animate the camera movements in order to create a story. I am very happy for this:
+maybe not the most representative screenshot but I am so happy I finally understood keypoints. I know it's basic but i never understood how they work. 
+![](img/Level_first.PNG)
+
 Some more glimpses of the environment: 
 
 
@@ -98,6 +102,8 @@ I tried using water / reflective materials and "fluffify" the trees as well and 
 ![](img/img_19.png)
 ![](img/img_22.png)
 ![](img/img_23.png)
+![](img/HighresScreenshot00000-min.png)
+
 
 HOWEVER, the renderings looked so bad and random. And after a crash where nothing was saved, I went back to the initial look - which I actually discovered I loved! It's making much more sense, the surreal atmosphere:
 ![](img/img_32.png)
@@ -127,29 +133,16 @@ As a goal, I just wanted to recreate the vibe of the wild-life documentaries, ch
 ![](img/sound.PNG)
 
 
-![](img/4-min.png)
-![](img/6-min.png)
-![](img/9-min.png)
-![](img/10-min.png)
-![](img/11-min.png)
-![](img/12-min.png)
 ![](img/13-min.png)
 ![](img/14-min.png)
-![](img/16-min.png)
-![](img/19-min.png)
 ![](img/HighresScreenshot00000-min.png)
 ![](img/HighresScreenshot00001-min.png)
 ![](img/HighresScreenshot00069.png)
-![](img/HighresScreenshot00081.png)
-![](img/HighresScreenshot00084.png)
-![](img/HighresScreenshot00085.png)
-![](img/HighresScreenshot00086.png)
 ![](img/HighresScreenshot00093.png)
 
 ![](img/img_30.png)
 ![](img/img_31.png)
 
-![](img/Level_first.PNG)
 
 ## Results
 
@@ -163,6 +156,7 @@ from the movie:
 
 detail from the world: 
 ![](img/img_35.png)
+![](img/4-min.png)
 
 2. The pillow field
 from the movie:
@@ -173,11 +167,16 @@ from the movie:
 ![](img/HighresScreenshot00082.png)
 
 detail from the world: 
-  
+![](img/HighresScreenshot00085.png)
+![](img/HighresScreenshot00086.png)
+
 4. The Fluffy Monster
 from the movie:
 detail from the world: 
 ![](img/HighresScreenshot00070.png)
+![](img/13-min.png)
+![](img/16-min.png)
+![](img/19-min.png)
 
 5. Last scene: the colourful field
 from the movie:
