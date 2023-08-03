@@ -76,8 +76,6 @@ please WATCH HERE as I really love it: [the pillow bees](https://youtu.be/2ny54n
 ![](img/pillow_bees_01.PNG)
 ![](img/pillow_bees_02.PNG)
 
-Summarizing Niagara experience - I explored a lot the rendereres and forces. I really love it even if sometimes I don't understand everything I am doing. 
-
 Tutorials I used:
 
 - [Unreal Engine 5 Niagara Particles: A Beginner Tutorial for Motion Designers](https://www.youtube.com/watch?v=pzIORuULNfo)
@@ -88,8 +86,7 @@ and some other pieces of other tutorials. But I can say that I also explored chi
 Last but not least to mention is the camera!!!!!!! Through the first tutorial I mentioned, I learned how to track specific actors and how to animate the camera movements in order to create a story. I am very happy for this:
 maybe not the most representative screenshot but I am so happy I finally understood keypoints. I know it's basic but i never understood how they work. 
 ![](img/Level_first.PNG)
-
-and here is another scene I didn't use but I'm very happy with the camera movement: https://youtu.be/1wUm_hkxFeU 
+here is another scene I didn't use but I'm VERY happy with the camera movement: [The floating pillows (scene 1)](https://youtu.be/1wUm_hkxFeU) 
 
 #### Look explorations:
 The assets I used come from the package Rural Australia -natural elements, Edith Finch (Twins Room) - the pillows.
@@ -136,7 +133,6 @@ Also - I love using Ableton with video! I had no idea that is possible lol.
 As a goal, I just wanted to recreate the vibe of the wild-life documentaries, chill music and the voice on top.
 
 ![](img/sound.PNG)
-
 
 ## Results
 
@@ -209,7 +205,7 @@ Initially, I planned an audio-reactive pillow world. As challenges came up, I ha
 Future Applications: I really want to continue something related to this. I was thinking doing some little surreal videos for social media or something that would motivate me to continue to explore Unreal. 
 
 Improvements for Future Projects: I realized the importance of flexibility in creative projects. A better understanding of Unreal Engine's capabilities from the start could've helped. However, these are valuable lessons for future projects.
-I experienced some ups and downs, including losing work due to computer issues and using the university computer at Filmuni was not the most flexible. However, I really enjoyed the time spent in the 6119 room with my pillows. Actually, on the big bean-bags :D That is why, instead of dwelling on the loss, I rebuilt the scenes and pushed my creativity further. This mindset led to exploring the loss of the bees into creating the fluff monster scene. 
+I experienced some ups and downs, including losing work due to computer issues and using the university computer at Filmuni was not the most flexible. However, I really enjoyed the time spent in the 6119 room with my pillows. Actually, on the big bean-bags :D That is why, instead of dwelling on the loss, I rebuilt the scenes. This mindset led to exploring the loss of the bees into creating the fluff monster scene instead of being frustrated.
 Also, the aspect of community was really cool while working with Unreal. I connected with various groups on Facebook and found that they offered a supportive and engaging space to discuss ideas and challenges. Although the help I received on the audio-reactive issue was pretty basic, I think it's valueble to know that there is a community ready to support and share knowledge.
 
 And of course: it's the first project I did on an actual good computer (from our classroom). It's amazing to render fast, not have extremely laggy moments.
@@ -229,4 +225,4 @@ And of course: it's the first project I did on an actual good computer (from our
 - I love stories and I definetely learn better if I create a scenario in my head, else I tend to get overwhelmed and have lack of direction.
 - I am very happy with the result. I know it's not a very complex project but for me is a big accomplishment.
 - I loved this course and I love Unreal. Thank you for this class and these exercises.
-
+- I want to continue with this as it brings me a lot of joy.
