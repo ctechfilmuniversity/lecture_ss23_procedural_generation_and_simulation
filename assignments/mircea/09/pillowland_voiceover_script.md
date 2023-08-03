@@ -1,4 +1,4 @@
-# PILLOWLAND - voiceover script
+# PILLOWLAND - script
 
 written for AI text to speech recognition 
 tools: ChatGPT, www.naturalreaders.com
