@@ -35,12 +35,19 @@ This session is due on **Monday, June 12th**. This assignment should take <= 4h.
 
 ### Task 06.01 - Fancy Cubes
 
-![](pgs_tutorial_03_dynamics/img/finalresultcubes.gif)
 
 Complete the [Tutorial 03 - Fancy Cubes](pgs_tutorial_03_dynamics/pgs_tutorial_03_dynamics.md). In case the tutorial doesn't look appealing to you, you can complete any other tutorial that includes a rigid body simulation. 
   
- Come up with a good looking and individual result!
-  
+Come up with a good looking and individual result!
+
+![](img/CUBEDYNAMIC.0019.png)
+![](img/CUBEDYNAMIC.0051.png)
+![](img/CUBEDYNAMIC.0141.png)
+![](img/CUBEDYNAMIC.0178.png)
+
+![](img/pgs_06.gif)
+
+
 *Submission:* At least one preview image and one animation, e.g. as gif, of your scene, linked in your `pgs_ss23_06_lastname.md` file.
 
 
