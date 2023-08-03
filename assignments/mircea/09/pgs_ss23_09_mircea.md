@@ -70,7 +70,7 @@ Then, I explored A LOT Niagara:
 -and another one that unfortunately crashed Unreal and I never managed to get back as this error appeared and I couldn't open the Level anymore:
 ![](img/error.PNG)
 
-I call it the Pillow Bees *maybe a bit radioactive too because of the laser trials) and I am very proud of the way I used the camera in this scene even if I unfortunately didn't get to use it:
+I call it the Pillow Bees *maybe a bit radioactive too because of the laser trials) and I am very proud of the way I used the camera and animation in this scene even if I unfortunately didn't get to use it:
 
 please WATCH HERE as I really love it: [the pillow bees](https://youtu.be/2ny54ndGSdY) 
 
