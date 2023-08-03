@@ -38,7 +38,8 @@ This session is due on **Monday, June 12th**. This assignment should take <= 4h.
 
 Complete the [Tutorial 03 - Fancy Cubes](pgs_tutorial_03_dynamics/pgs_tutorial_03_dynamics.md). In case the tutorial doesn't look appealing to you, you can complete any other tutorial that includes a rigid body simulation. 
   
-Come up with a good looking and individual result!
+Come up with a good looking and individual result! - WELL IT LOOKED GOOD... but not like rendered. 
+I used a pool material and arranged the lights nice, but for some reason the camera jumped.
 
 ![](img/CUBEDYNAMIC.0019.png)
 ![](img/CUBEDYNAMIC.0051.png)
