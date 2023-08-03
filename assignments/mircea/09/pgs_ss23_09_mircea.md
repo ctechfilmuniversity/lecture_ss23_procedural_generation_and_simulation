@@ -18,6 +18,23 @@ I watched the 60 min short film
 ![](img/03-min.png)
 ![](img/04-min.png)
 
+![](img/1-min.png)
+![](img/2-min.png)
+![](img/3-min.png)
+![](img/4-min.png)
+![](img/6-min.png)
+![](img/9-min.png)
+![](img/8-min.png)
+![](img/10-min.png)
+![](img/11-min.png)
+![](img/12-min.png)
+![](img/13-min.png)
+![](img/14-min.png)
+![](img/15-min.png)
+![](img/16-min.png)
+![](img/17-min.png)
+![](img/19-min.png)
+
 ## Results
 
 
