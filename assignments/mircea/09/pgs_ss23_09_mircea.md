@@ -34,6 +34,8 @@ I watched the 60 min short film
 ![](img/16-min.png)
 ![](img/17-min.png)
 ![](img/19-min.png)
+![](img/HighresScreenshot00000-min.png)
+![](img/HighresScreenshot00001-min.png)
 
 ## Results
 
