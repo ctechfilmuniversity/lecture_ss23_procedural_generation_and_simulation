@@ -48,6 +48,8 @@ I used a pool material and arranged the lights nice, but for some reason the cam
 
 ![](img/pgs_06.gif)
 
+It should have looked something like this: 
+![](img/066.PNG)
 
 *Submission:* At least one preview image and one animation, e.g. as gif, of your scene, linked in your `pgs_ss23_06_lastname.md` file.
 
