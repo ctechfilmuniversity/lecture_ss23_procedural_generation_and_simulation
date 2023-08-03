@@ -121,7 +121,7 @@ That is why I decided then to create this narrative of a flock of pillows follow
 The voiceover had to be an AI as my accent is not empowering the immersion feeling and after I found a voice I liked, I sketched the text based on the structure I had created and then asked ChatGPT to help me blend "technical digital poetics" with it so that it fits the PGS class vibe: algorithmic fluff.
 
 The result of the script is here:
-[](/pillowland_voiceover_script.md)
+[THE VOICEOVER SCRIPT](/pillowland_voiceover_script.md)
 
 ### Audio development:
 
