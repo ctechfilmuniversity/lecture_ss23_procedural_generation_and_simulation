@@ -1,10 +1,11 @@
-# The life of the Pillows - a short documentary about a day in the incredible life of the keeper of our dreams
+# The secret life of the Pillows - a short documentary about a day in the incredible life of the keeper of our dreams
 
 ## Summary
 This project came to life as a continuation of Exercise 7, which revealed to me the surreal yet realistic capabilities of this powerful tool. The goal was to explore different functions within Unreal Engine, particularly in terms of camera work, the PCG plugin and Niagara visual effects
-The playful and humorous concept of a pillow mockumentary was purposefully chosen to prevent the project from becoming overwhelming given the vast possibilities of Unreal Engine. This project allowed for a creative exploration of Unreal Engine's capabilities in a manageable way, while also allowing me to create a “start to finish” workflow. 
+The playful and humorous concept of a pillow mockumentary was purposefully chosen to prevent the project from becoming overwhelming given the vast possibilities of Unreal Engine (and my working style). This project allowed me a creative exploration of Unreal Engine's capabilities in a manageable way, while also gratifying me with a “start to finish” holistic workflow. 
 
 ## Concept
+"The secret life of the Pillows" is a visual exploration of an universe where ordinary pillows come alive and take flight, dancing in the sky creating surreal settings. This short film is a journey that aims merging the familiar and the extraordinary through playfulness.
 
 ## Implementation
 
@@ -21,7 +22,7 @@ Then, I actually started with the last scene - with the PCG plugin, pillows ever
 
 I really liked the look but I couldn't fix the meshes from colliding weirdly to each other even if I tried several tutorials on the topic. 
 
-That's where googleing took me to the Procedural Foliage Tool from Unreal, which is was very interesting to explore. With this I created an environment that has several trees and pillows from different sizes, some tree barks "dressed" in pillow cloth on a landscape. 
+That's where google-ing took me to the Procedural Foliage Tool from Unreal, which is was very interesting to explore. With this I created an environment that has several trees and pillows from different sizes, some tree barks "dressed" in pillow cloth on a landscape. 
 It was a very nice flow, but, I don't feel you can have too much control on the way things are displayed. However, for my landscape and pillow world, was good enough, as I could play with density and sizes:
 
 some small pillows around trees:
@@ -70,7 +71,6 @@ please WATCH HERE as I really love it: [the pillow bees](https://youtu.be/2ny54n
 ![](img/pillow_bees_01.PNG)
 ![](img/pillow_bees_02.PNG)
 
-
 Summarizing Niagara experience - I explored a lot the rendereres and forces. I really love it even if sometimes I don't understand everything I am doing. 
 
 Tutorials I used:
@@ -83,8 +83,7 @@ Last but not least to mention is the camera!!!!!!! Through the first tutorial I 
 maybe not the most representative screenshot but I am so happy I finally understood keypoints. I know it's basic but i never understood how they work. 
 ![](img/Level_first.PNG)
 
-Some more glimpses of the environment: 
-
+and here is another scene I didn't use but I'm very happy with the camera movement: https://youtu.be/1wUm_hkxFeU 
 
 #### Look explorations:
 The assets I used come from the package Rural Australia -natural elements, Edith Finch (Twins Room) - the pillows.
@@ -117,7 +116,7 @@ HOWEVER, the renderings looked so bad and random. And after a crash where nothin
 
 ### Storyline development:
 At the beginning I wanted to create like an audioreactive music scene but I failed miserably as I could not finish any tutorial I tried ( 3 different ones) due to random reasons. 
-So then I just started to play along and I started to really like the visuals of the scenes. The way the trees get in front of the pillows reminded me of Animal Planet or National Geographic sneaky footage that tries to capture wildlife.
+So then I just started to play along and I started to really like the visuals I was seeing. The way the trees get in front of the pillows reminded me of Animal Planet or National Geographic sneaky footage that tries to capture wildlife.
 That is why I decided then to create this narrative of a flock of pillows followed in their actions: seeing them on the bringht sky, them spreading everywhere, taking over nature, a surreal alien-like experience, and a peaceful ending.
 The voiceover had to be an AI as my accent is not empowering the immersion feeling and after I found a voice I liked, I sketched the text based on the structure I had created and then asked ChatGPT to help me blend "technical digital poetics" with it so that it fits the PGS class vibe: algorithmic fluff.
 
@@ -133,16 +132,6 @@ As a goal, I just wanted to recreate the vibe of the wild-life documentaries, ch
 ![](img/sound.PNG)
 
 
-![](img/13-min.png)
-![](img/14-min.png)
-![](img/HighresScreenshot00000-min.png)
-![](img/HighresScreenshot00001-min.png)
-![](img/HighresScreenshot00069.png)
-![](img/HighresScreenshot00093.png)
-
-![](img/img_30.png)
-![](img/img_31.png)
-
 
 ## Results
 
@@ -152,36 +141,54 @@ The final result is a short film that can be seen here:
 The film has 5 scenes and here are details from the scenes and a print screen from the 2x print screens from the movie:
 
 1. The flying pillows - day/night
-from the movie:
+- from the movie:
+![](img/s1.PNG)
+![](img/s2.PNG)
+![](img/s3.PNG)
 
-detail from the world: 
+- detail from the world: 
 ![](img/img_35.png)
 ![](img/4-min.png)
 
 2. The pillow field
-from the movie:
-detail from the world: 
+looks bad like this but yeah
+- from the movie:
+![](img/s4.PNG)
+![](img/s5.PNG)
+![](img/s6.PNG)
 
 3. The Great Tree Takeover
-from the movie:
-![](img/HighresScreenshot00082.png)
 
-detail from the world: 
+- from the movie:
+![](img/s7.PNG)
+![](img/s8.PNG)
+
+- detail from the world: 
+![](img/HighresScreenshot00082.png)
 ![](img/HighresScreenshot00085.png)
 ![](img/HighresScreenshot00086.png)
+![](img/img_30.png)
+![](img/img_31.png)
 
 4. The Fluffy Monster
-from the movie:
-detail from the world: 
+
+- from the movie:
+![](img/s9.PNG)
+![](img/s10.PNG)
+
+- detail from the world: 
 ![](img/HighresScreenshot00070.png)
 ![](img/13-min.png)
 ![](img/16-min.png)
 ![](img/19-min.png)
+![](img/HighresScreenshot00093.png)
 
 5. Last scene: the colourful field
-from the movie:
-detail from the world: 
+
+- from the movie:
 ![](img/01-min.png)
+
+- detail from the world: 
 ![](img/03-min.png)
 
 
@@ -200,6 +207,8 @@ Improvements for Future Projects: I realized the importance of flexibility in cr
 I experienced some ups and downs, including losing work due to computer issues and using the university computer at Filmuni was not the most flexible. However, I really enjoyed the time spent in the 6119 room with my pillows. Actually, on the big bean-bags :D That is why, instead of dwelling on the loss, I rebuilt the scenes and pushed my creativity further. This mindset led to exploring the loss of the bees into creating the fluff monster scene. 
 Also, the aspect of community was really cool while working with Unreal. I connected with various groups on Facebook and found that they offered a supportive and engaging space to discuss ideas and challenges. Although the help I received on the audio-reactive issue was pretty basic, I think it's valueble to know that there is a community ready to support and share knowledge.
 
+And of course: it's the first project I did on an actual good computer (from our classroom). It's amazing to render fast, not have extremely laggy moments.
+
 ## Lessons Learned
 
 #### Technical:
@@ -214,5 +223,5 @@ Also, the aspect of community was really cool while working with Unreal. I conne
 #### Personal:
 - I love stories and I definetely learn better if I create a scenario in my head, else I tend to get overwhelmed and have lack of direction.
 - I am very happy with the result. I know it's not a very complex project but for me is a big accomplishment.
-- I loved this course and I love Unreal. Thank you for this class and these exercises. 
+- I loved this course and I love Unreal. Thank you for this class and these exercises.
 
