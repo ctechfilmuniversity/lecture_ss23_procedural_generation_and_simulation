@@ -13,6 +13,10 @@ Then I created a new environment and went on exploring the PG foliage for the en
 Niagara systems explorations
 I watched the 60 min short film 
 
+![](img/01-min.png)
+![](img/02-min.png)
+![](img/03-min.png)
+![](img/04-min.png)
 
 ## Results
 
