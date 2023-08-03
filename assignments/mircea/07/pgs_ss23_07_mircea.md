@@ -45,10 +45,7 @@ Complete an introductory tutorial about Niagara. In [Chapter 02 - Unreal](../../
 
 If you already know Niagara well, chose a more advanced topic within Niagara and investigate it further. Summarize your investigation briefly.
 
-It was my first time looking at this and I enjoyed experimenting with Niagara:
-![](img/1.png)
-![](img/2.png)
-
+I really loved exploring Niagara. I started with cubes but then I wanted to play around with particles to see how they function, move, etc. Niagara has the ability to bring to life and create a sort of "consciousness" to objects :))
 And this might be a far-away starting point of my final project :)
 ![](img/3.png)
 ![](img/4.png)
@@ -85,6 +82,8 @@ Even if I tried a lot debugging (there are a lot of people having issues with it
 ### Task 07.04
 
 Please summarize your personal learnings (text or bullet points - whatever you prefer). What was challenging for you in this session? How did you challenge yourself?
+
+I am very fascinated by Niagara. Also, i enjoyed a lot the script. And I love Unity. I can't say much more as I feel I am just touching the tip of the iceberg - some things I understand and others are still witchkraft but I really enjoy the process.
 
 *Submission:* Text in your `pgs_ss23_07_lastname.md` file.
 
